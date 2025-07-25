@@ -83,6 +83,73 @@ Optional data analysis and export using pandas.
     DB_NAME=web_scraper_db
     TARGET_URL=http://books.toscrape.com
 
+### Docker Setup
+- #### Clone the Repository (if not already done):
+    ```bash
+    git clone https://github.com/Ajith-Kumar-Nelliparthi/WebScraperToMySQL.git
+    cd BookScraper
+
+- #### Set Up Environment Variables:
+- Create a .env file:
+    ```sh
+    DB_HOST=db
+    DB_USER=your_username
+    DB_PASSWORD=your_password
+    DB_NAME=web_scraper_db
+    TARGET_URL=http://books.toscrape.com
+
+- #### Build and Run with Docker Compose:
+    ```bash
+    docker-compose up --build
+- This starts the scraper and a MySQL container, automatically creating the products table and scraping data.
+
+- #### Stop the Containers:
+    ```bash
+    docker-compose down
+- To remove the MySQL data volume (reset database):
+    ```bash
+    docker-compose down -v
+
+### Usage
+- #### Run the Scraper:
+- Local:
+    ```bash
+    python scripts/main.py
+
+- Docker:
+    ```bash
+    docker-compose up
+
+- #### View Logs:
+- Check logs/scraper.log for scraping and database activity.
+- For Docker, view container logs:
+    ```bash
+    docker-compose logs scraper
+
+### Database Schema
+The scraped data is stored in the products table in the web_scraper_db database:
+    ```sql
+    CREATE TABLE products (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        name VARCHAR(255) NOT NULL,
+        price DECIMAL(10, 2),
+        description TEXT
+    );
+
+### Contributing
+Contributions are welcome! 
+- Please follow these steps:Fork the repository.
+- Create a feature branch (git checkout -b feature/your-feature).
+- Commit changes (git commit -m "Add your feature").
+- Push to the branch (git push origin feature/your-feature).
+- Open a pull request.
+Please ensure code follows PEP 8 style guidelines and includes appropriate logging.
+
+
+
+
+
+
 
 
 
