@@ -34,8 +34,6 @@ Optional data analysis and export using pandas.
     │   └── scraper.log         # Log file for debugging
     ├── scripts/
     │   ├── main.py             # Entry point to run the scraper
-    │   ├── display_data.py     # Script to view scraped data
-    │   └── analyze_data.py     # Script for data analysis with pandas
     ├── .env                    # Environment variables (not committed)
     ├── Dockerfile              # Docker configuration
     ├── docker-compose.yml      # Docker Compose for scraper and MySQL
