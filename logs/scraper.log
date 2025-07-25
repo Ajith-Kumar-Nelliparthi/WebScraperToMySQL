@@ -1,0 +1,1141 @@
+2025-07-25 15:06:56,639 - INFO - Database connection established.
+2025-07-25 15:06:56,645 - ERROR - Error creating table: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 6
+2025-07-25 15:06:56,645 - ERROR - Error in main: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 6
+2025-07-25 15:06:56,646 - INFO - Database connection closed.
+2025-07-25 15:09:24,178 - INFO - Database connection established.
+2025-07-25 15:09:24,355 - INFO - Products table created or already exists.
+2025-07-25 15:09:24,355 - ERROR - Error in main: Scraper.fetch_page() takes 1 positional argument but 2 were given
+2025-07-25 15:09:24,356 - INFO - Database connection closed.
+2025-07-25 15:10:57,261 - INFO - Database connection established.
+2025-07-25 15:10:57,305 - INFO - Products table created or already exists.
+2025-07-25 15:10:57,306 - ERROR - Error in main: cannot access local variable 'response' where it is not associated with a value
+2025-07-25 15:10:57,307 - INFO - Database connection closed.
+2025-07-25 15:12:11,242 - INFO - Database connection established.
+2025-07-25 15:12:11,248 - INFO - Products table created or already exists.
+2025-07-25 15:12:11,249 - ERROR - Error in main: cannot access local variable 'response' where it is not associated with a value
+2025-07-25 15:12:11,249 - INFO - Database connection closed.
+2025-07-25 15:13:45,411 - INFO - Database connection established.
+2025-07-25 15:13:45,431 - INFO - Products table created or already exists.
+2025-07-25 15:13:47,829 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:13:47,895 - ERROR - Error parsing page: could not convert string to float: 'Â£51.77'
+2025-07-25 15:13:47,896 - ERROR - Error in main: could not convert string to float: 'Â£51.77'
+2025-07-25 15:13:47,897 - INFO - Database connection closed.
+2025-07-25 15:14:52,526 - INFO - Database connection established.
+2025-07-25 15:14:52,543 - INFO - Products table created or already exists.
+2025-07-25 15:14:59,568 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:14:59,633 - ERROR - Error parsing page: Product.__init__() missing 1 required positional argument: 'image_url'
+2025-07-25 15:14:59,633 - ERROR - Error in main: Product.__init__() missing 1 required positional argument: 'image_url'
+2025-07-25 15:14:59,634 - INFO - Database connection closed.
+2025-07-25 15:16:59,055 - INFO - Database connection established.
+2025-07-25 15:16:59,081 - INFO - Products table created or already exists.
+2025-07-25 15:17:00,525 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:17:00,602 - INFO - Parsed 20 books
+2025-07-25 15:17:03,380 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:17:03,451 - INFO - Parsed 20 books
+2025-07-25 15:17:05,321 - ERROR - Error fetching page: 404 Client Error: Not Found for url: https://books.toscrape.com/page-3.html
+2025-07-25 15:17:05,321 - ERROR - Error in main: 404 Client Error: Not Found for url: https://books.toscrape.com/page-3.html
+2025-07-25 15:17:05,322 - INFO - Database connection closed.
+2025-07-25 15:18:48,741 - INFO - Database connection established.
+2025-07-25 15:18:48,759 - INFO - Products table created or already exists.
+2025-07-25 15:18:51,260 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:18:51,333 - INFO - Parsed 20 books
+2025-07-25 15:18:53,882 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:18:53,953 - INFO - Parsed 20 books
+2025-07-25 15:18:56,885 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:18:56,988 - INFO - Parsed 20 books
+2025-07-25 15:18:59,507 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:18:59,583 - INFO - Parsed 20 books
+2025-07-25 15:19:02,104 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:02,170 - INFO - Parsed 20 books
+2025-07-25 15:19:04,617 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:04,710 - INFO - Parsed 20 books
+2025-07-25 15:19:07,293 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:07,341 - INFO - Parsed 20 books
+2025-07-25 15:19:10,299 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:10,389 - INFO - Parsed 20 books
+2025-07-25 15:19:15,017 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:15,095 - INFO - Parsed 20 books
+2025-07-25 15:19:19,465 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:19,527 - INFO - Parsed 20 books
+2025-07-25 15:19:22,383 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:22,446 - INFO - Parsed 20 books
+2025-07-25 15:19:24,895 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:24,971 - INFO - Parsed 20 books
+2025-07-25 15:19:27,461 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:27,538 - INFO - Parsed 20 books
+2025-07-25 15:19:29,921 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:30,095 - INFO - Parsed 20 books
+2025-07-25 15:19:32,929 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:33,014 - INFO - Parsed 20 books
+2025-07-25 15:19:38,120 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:38,204 - INFO - Parsed 20 books
+2025-07-25 15:19:40,712 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:40,813 - INFO - Parsed 20 books
+2025-07-25 15:19:43,399 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:43,488 - INFO - Parsed 20 books
+2025-07-25 15:19:46,346 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:46,429 - INFO - Parsed 20 books
+2025-07-25 15:19:48,978 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:49,069 - INFO - Parsed 20 books
+2025-07-25 15:19:52,019 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:52,114 - INFO - Parsed 20 books
+2025-07-25 15:19:54,743 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:54,815 - INFO - Parsed 20 books
+2025-07-25 15:19:58,138 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:19:58,208 - INFO - Parsed 20 books
+2025-07-25 15:20:02,083 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:02,159 - INFO - Parsed 20 books
+2025-07-25 15:20:04,743 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:04,904 - INFO - Parsed 20 books
+2025-07-25 15:20:07,368 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:07,460 - INFO - Parsed 20 books
+2025-07-25 15:20:10,051 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:10,123 - INFO - Parsed 20 books
+2025-07-25 15:20:12,765 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:12,844 - INFO - Parsed 20 books
+2025-07-25 15:20:15,530 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:15,620 - INFO - Parsed 20 books
+2025-07-25 15:20:18,706 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:18,803 - INFO - Parsed 20 books
+2025-07-25 15:20:21,471 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:21,544 - INFO - Parsed 20 books
+2025-07-25 15:20:23,955 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:24,042 - INFO - Parsed 20 books
+2025-07-25 15:20:27,927 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:28,015 - INFO - Parsed 20 books
+2025-07-25 15:20:30,482 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:30,566 - INFO - Parsed 20 books
+2025-07-25 15:20:33,348 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:33,438 - INFO - Parsed 20 books
+2025-07-25 15:20:36,070 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:36,249 - INFO - Parsed 20 books
+2025-07-25 15:20:38,674 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:38,744 - INFO - Parsed 20 books
+2025-07-25 15:20:43,534 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:43,617 - INFO - Parsed 20 books
+2025-07-25 15:20:45,991 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:46,088 - INFO - Parsed 20 books
+2025-07-25 15:20:49,948 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:50,038 - INFO - Parsed 20 books
+2025-07-25 15:20:53,463 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:53,551 - INFO - Parsed 20 books
+2025-07-25 15:20:57,318 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:20:57,398 - INFO - Parsed 20 books
+2025-07-25 15:21:00,993 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:01,083 - INFO - Parsed 20 books
+2025-07-25 15:21:03,660 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:03,737 - INFO - Parsed 20 books
+2025-07-25 15:21:06,242 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:06,332 - INFO - Parsed 20 books
+2025-07-25 15:21:08,992 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:09,073 - INFO - Parsed 20 books
+2025-07-25 15:21:12,008 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:12,192 - INFO - Parsed 20 books
+2025-07-25 15:21:15,313 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:15,387 - INFO - Parsed 20 books
+2025-07-25 15:21:18,507 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:18,579 - INFO - Parsed 20 books
+2025-07-25 15:21:21,292 - INFO - Fetched page: https://books.toscrape.com
+2025-07-25 15:21:21,367 - INFO - Parsed 20 books
+2025-07-25 15:21:22,475 - INFO - Inserted product: A Light in the Attic
+2025-07-25 15:21:22,480 - INFO - Inserted product: Tipping the Velvet
+2025-07-25 15:21:22,485 - INFO - Inserted product: Soumission
+2025-07-25 15:21:22,489 - INFO - Inserted product: Sharp Objects
+2025-07-25 15:21:22,494 - INFO - Inserted product: Sapiens: A Brief History of Humankind
+2025-07-25 15:21:22,498 - INFO - Inserted product: The Requiem Red
+2025-07-25 15:21:22,501 - INFO - Inserted product: The Dirty Little Secrets of Getting Your Dream Job
+2025-07-25 15:21:22,506 - INFO - Inserted product: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+2025-07-25 15:21:22,509 - INFO - Inserted product: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+2025-07-25 15:21:22,512 - INFO - Inserted product: The Black Maria
+2025-07-25 15:21:22,517 - INFO - Inserted product: Starving Hearts (Triangular Trade Trilogy, #1)
+2025-07-25 15:21:22,521 - INFO - Inserted product: Shakespeare's Sonnets
+2025-07-25 15:21:22,524 - INFO - Inserted product: Set Me Free
+2025-07-25 15:21:22,528 - INFO - Inserted product: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+2025-07-25 15:21:22,531 - INFO - Inserted product: Rip it Up and Start Again
+2025-07-25 15:21:22,535 - INFO - Inserted product: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+2025-07-25 15:21:22,538 - INFO - Inserted product: Olio
+2025-07-25 15:21:22,546 - INFO - Inserted product: Mesaerion: The Best Science Fiction Stories 1800-1849
+2025-07-25 15:21:22,549 - INFO - Inserted product: Libertarianism for Beginners
+2025-07-25 15:21:22,553 - INFO - Inserted product: It's Only the Himalayas
+2025-07-25 15:21:22,557 - INFO - Inserted product: In Her Wake
+2025-07-25 15:21:22,560 - INFO - Inserted product: How Music Works
+2025-07-25 15:21:22,563 - INFO - Inserted product: Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+2025-07-25 15:21:22,568 - INFO - Inserted product: Chase Me (Paris Nights #2)
+2025-07-25 15:21:22,571 - INFO - Inserted product: Black Dust
+2025-07-25 15:21:22,576 - INFO - Inserted product: Birdsong: A Story in Pictures
+2025-07-25 15:21:22,579 - INFO - Inserted product: America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+2025-07-25 15:21:22,582 - INFO - Inserted product: Aladdin and His Wonderful Lamp
+2025-07-25 15:21:22,586 - INFO - Inserted product: Worlds Elsewhere: Journeys Around Shakespeare’s Globe
+2025-07-25 15:21:22,590 - INFO - Inserted product: Wall and Piece
+2025-07-25 15:21:22,594 - INFO - Inserted product: The Four Agreements: A Practical Guide to Personal Freedom
+2025-07-25 15:21:22,598 - INFO - Inserted product: The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+2025-07-25 15:21:22,601 - INFO - Inserted product: The Elephant Tree
+2025-07-25 15:21:22,606 - INFO - Inserted product: The Bear and the Piano
+2025-07-25 15:21:22,609 - INFO - Inserted product: Sophie's World
+2025-07-25 15:21:22,613 - INFO - Inserted product: Penny Maybe
+2025-07-25 15:21:22,617 - INFO - Inserted product: Maude (1883-1993):She Grew Up with the country
+2025-07-25 15:21:22,621 - INFO - Inserted product: In a Dark, Dark Wood
+2025-07-25 15:21:22,625 - INFO - Inserted product: Behind Closed Doors
+2025-07-25 15:21:22,629 - INFO - Inserted product: You can't bury them all: Poems
+2025-07-25 15:21:22,633 - INFO - Inserted product: Slow States of Collapse: Poems
+2025-07-25 15:21:22,637 - INFO - Inserted product: Reasons to Stay Alive
+2025-07-25 15:21:22,641 - INFO - Inserted product: Private Paris (Private #10)
+2025-07-25 15:21:22,644 - INFO - Inserted product: #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+2025-07-25 15:21:22,648 - INFO - Inserted product: Without Borders (Wanderlove #1)
+2025-07-25 15:21:22,652 - INFO - Inserted product: When We Collided
+2025-07-25 15:21:22,656 - INFO - Inserted product: We Love You, Charlie Freeman
+2025-07-25 15:21:22,660 - INFO - Inserted product: Untitled Collection: Sabbath Poems 2014
+2025-07-25 15:21:22,665 - INFO - Inserted product: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+2025-07-25 15:21:22,669 - INFO - Inserted product: Unicorn Tracks
+2025-07-25 15:21:22,673 - INFO - Inserted product: Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink
+2025-07-25 15:21:22,677 - INFO - Inserted product: Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+2025-07-25 15:21:22,681 - INFO - Inserted product: Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+2025-07-25 15:21:22,685 - INFO - Inserted product: This One Summer
+2025-07-25 15:21:22,689 - INFO - Inserted product: Thirst
+2025-07-25 15:21:22,694 - INFO - Inserted product: The Torch Is Passed: A Harding Family Story
+2025-07-25 15:21:22,697 - INFO - Inserted product: The Secret of Dreadwillow Carse
+2025-07-25 15:21:22,701 - INFO - Inserted product: The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!
+2025-07-25 15:21:22,705 - INFO - Inserted product: The Past Never Ends
+2025-07-25 15:21:22,710 - INFO - Inserted product: The Natural History of Us (The Fine Art of Pretending #2)
+2025-07-25 15:21:22,714 - INFO - Inserted product: The Nameless City (The Nameless City #1)
+2025-07-25 15:21:22,718 - INFO - Inserted product: The Murder That Never Was (Forensic Instincts #5)
+2025-07-25 15:21:22,722 - INFO - Inserted product: The Most Perfect Thing: Inside (and Outside) a Bird's Egg
+2025-07-25 15:21:22,726 - INFO - Inserted product: The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy
+2025-07-25 15:21:22,731 - INFO - Inserted product: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+2025-07-25 15:21:22,734 - INFO - Inserted product: The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer
+2025-07-25 15:21:22,739 - INFO - Inserted product: The Gutsy Girl: Escapades for Your Life of Epic Adventure
+2025-07-25 15:21:22,743 - INFO - Inserted product: The Electric Pencil: Drawings from Inside State Hospital No. 3
+2025-07-25 15:21:22,748 - INFO - Inserted product: The Death of Humanity: and the Case for Life
+2025-07-25 15:21:22,752 - INFO - Inserted product: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+2025-07-25 15:21:22,758 - INFO - Inserted product: The Art Forger
+2025-07-25 15:21:22,763 - INFO - Inserted product: The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind
+2025-07-25 15:21:22,768 - INFO - Inserted product: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+2025-07-25 15:21:22,773 - INFO - Inserted product: Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up
+2025-07-25 15:21:22,779 - INFO - Inserted product: Soul Reader
+2025-07-25 15:21:22,784 - INFO - Inserted product: Security
+2025-07-25 15:21:22,788 - INFO - Inserted product: Saga, Volume 6 (Saga (Collected Editions) #6)
+2025-07-25 15:21:22,793 - INFO - Inserted product: Saga, Volume 5 (Saga (Collected Editions) #5)
+2025-07-25 15:21:22,796 - INFO - Inserted product: Reskilling America: Learning to Labor in the Twenty-First Century
+2025-07-25 15:21:22,801 - INFO - Inserted product: Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)
+2025-07-25 15:21:22,804 - INFO - Inserted product: Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)
+2025-07-25 15:21:22,808 - INFO - Inserted product: Princess Between Worlds (Wide-Awake Princess #5)
+2025-07-25 15:21:22,812 - INFO - Inserted product: Pop Gun War, Volume 1: Gift
+2025-07-25 15:21:22,816 - INFO - Inserted product: Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics
+2025-07-25 15:21:22,821 - INFO - Inserted product: Patience
+2025-07-25 15:21:22,825 - INFO - Inserted product: Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)
+2025-07-25 15:21:22,830 - INFO - Inserted product: orange: The Complete Collection 1 (orange: The Complete Collection #1)
+2025-07-25 15:21:22,835 - INFO - Inserted product: Online Marketing for Busy Authors: A Step-By-Step Guide
+2025-07-25 15:21:22,839 - INFO - Inserted product: On a Midnight Clear
+2025-07-25 15:21:22,843 - INFO - Inserted product: Obsidian (Lux #1)
+2025-07-25 15:21:22,847 - INFO - Inserted product: My Paris Kitchen: Recipes and Stories
+2025-07-25 15:21:22,851 - INFO - Inserted product: Masks and Shadows
+2025-07-25 15:21:22,855 - INFO - Inserted product: Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed
+2025-07-25 15:21:22,858 - INFO - Inserted product: Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)
+2025-07-25 15:21:22,863 - INFO - Inserted product: Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)
+2025-07-25 15:21:22,866 - INFO - Inserted product: Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)
+2025-07-25 15:21:22,871 - INFO - Inserted product: Layered: Baking, Building, and Styling Spectacular Cakes
+2025-07-25 15:21:22,875 - INFO - Inserted product: Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)
+2025-07-25 15:21:22,878 - INFO - Inserted product: Join
+2025-07-25 15:21:22,881 - INFO - Inserted product: In the Country We Love: My Family Divided
+2025-07-25 15:21:22,886 - INFO - Inserted product: Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine
+2025-07-25 15:21:22,889 - INFO - Inserted product: I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)
+2025-07-25 15:21:22,893 - INFO - Inserted product: I am a Hero Omnibus Volume 1
+2025-07-25 15:21:22,897 - INFO - Inserted product: How to Be Miserable: 40 Strategies You Already Use
+2025-07-25 15:21:22,900 - INFO - Inserted product: Her Backup Boyfriend (The Sorensen Family #1)
+2025-07-25 15:21:22,903 - INFO - Inserted product: Giant Days, Vol. 2 (Giant Days #5-8)
+2025-07-25 15:21:22,907 - INFO - Inserted product: Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton
+2025-07-25 15:21:22,911 - INFO - Inserted product: First and First (Five Boroughs #3)
+2025-07-25 15:21:22,916 - INFO - Inserted product: Fifty Shades Darker (Fifty Shades #2)
+2025-07-25 15:21:22,920 - INFO - Inserted product: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+2025-07-25 15:21:22,924 - INFO - Inserted product: Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master
+2025-07-25 15:21:22,928 - INFO - Inserted product: Danganronpa Volume 1
+2025-07-25 15:21:22,932 - INFO - Inserted product: Crown of Midnight (Throne of Glass #2)
+2025-07-25 15:21:22,937 - INFO - Inserted product: Codename Baboushka, Volume 1: The Conclave of Death
+2025-07-25 15:21:22,941 - INFO - Inserted product: Camp Midnight
+2025-07-25 15:21:22,945 - INFO - Inserted product: Call the Nurse: True Stories of a Country Nurse on a Scottish Isle
+2025-07-25 15:21:22,949 - INFO - Inserted product: Burning
+2025-07-25 15:21:22,953 - INFO - Inserted product: Bossypants
+2025-07-25 15:21:22,957 - INFO - Inserted product: Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))
+2025-07-25 15:21:22,962 - INFO - Inserted product: Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)
+2025-07-25 15:21:22,967 - INFO - Inserted product: Algorithms to Live By: The Computer Science of Human Decisions
+2025-07-25 15:21:22,971 - INFO - Inserted product: A World of Flavor: Your Gluten Free Passport
+2025-07-25 15:21:22,975 - INFO - Inserted product: A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations
+2025-07-25 15:21:22,980 - INFO - Inserted product: A Murder in Time
+2025-07-25 15:21:22,985 - INFO - Inserted product: A Flight of Arrows (The Pathfinders #2)
+2025-07-25 15:21:22,989 - INFO - Inserted product: A Fierce and Subtle Poison
+2025-07-25 15:21:22,994 - INFO - Inserted product: A Court of Thorns and Roses (A Court of Thorns and Roses #1)
+2025-07-25 15:21:22,999 - INFO - Inserted product: (Un)Qualified: How God Uses Broken People to Do Big Things
+2025-07-25 15:21:23,003 - INFO - Inserted product: You Are What You Love: The Spiritual Power of Habit
+2025-07-25 15:21:23,007 - INFO - Inserted product: William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)
+2025-07-25 15:21:23,011 - INFO - Inserted product: Tuesday Nights in 1980
+2025-07-25 15:21:23,015 - INFO - Inserted product: Tracing Numbers on a Train
+2025-07-25 15:21:23,019 - INFO - Inserted product: Throne of Glass (Throne of Glass #1)
+2025-07-25 15:21:23,024 - INFO - Inserted product: Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History
+2025-07-25 15:21:23,028 - INFO - Inserted product: Thirteen Reasons Why
+2025-07-25 15:21:23,033 - INFO - Inserted product: The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”
+2025-07-25 15:21:23,037 - INFO - Inserted product: The Wedding Dress
+2025-07-25 15:21:23,043 - INFO - Inserted product: The Vacationers
+2025-07-25 15:21:23,047 - INFO - Inserted product: The Third Wave: An Entrepreneur’s Vision of the Future
+2025-07-25 15:21:23,052 - INFO - Inserted product: The Stranger
+2025-07-25 15:21:23,056 - INFO - Inserted product: The Shadow Hero (The Shadow Hero)
+2025-07-25 15:21:23,060 - INFO - Inserted product: The Secret (The Secret #1)
+2025-07-25 15:21:23,065 - INFO - Inserted product: The Regional Office Is Under Attack!
+2025-07-25 15:21:23,069 - INFO - Inserted product: The Psychopath Test: A Journey Through the Madness Industry
+2025-07-25 15:21:23,073 - INFO - Inserted product: The Project
+2025-07-25 15:21:23,077 - INFO - Inserted product: The Power of Now: A Guide to Spiritual Enlightenment
+2025-07-25 15:21:23,079 - INFO - Inserted product: The Omnivore's Dilemma: A Natural History of Four Meals
+2025-07-25 15:21:23,083 - INFO - Inserted product: The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us
+2025-07-25 15:21:23,086 - INFO - Inserted product: The Murder of Roger Ackroyd (Hercule Poirot #4)
+2025-07-25 15:21:23,091 - INFO - Inserted product: The Mistake (Off-Campus #2)
+2025-07-25 15:21:23,094 - INFO - Inserted product: The Matchmaker's Playbook (Wingmen Inc. #1)
+2025-07-25 15:21:23,099 - INFO - Inserted product: The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking
+2025-07-25 15:21:23,102 - INFO - Inserted product: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+2025-07-25 15:21:23,105 - INFO - Inserted product: The Kite Runner
+2025-07-25 15:21:23,109 - INFO - Inserted product: The House by the Lake
+2025-07-25 15:21:23,111 - INFO - Inserted product: The Glittering Court (The Glittering Court #1)
+2025-07-25 15:21:23,117 - INFO - Inserted product: The Girl on the Train
+2025-07-25 15:21:23,122 - INFO - Inserted product: The Genius of Birds
+2025-07-25 15:21:23,127 - INFO - Inserted product: The Emerald Mystery
+2025-07-25 15:21:23,132 - INFO - Inserted product: The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First
+2025-07-25 15:21:23,136 - INFO - Inserted product: The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.
+2025-07-25 15:21:23,141 - INFO - Inserted product: The Artist's Way: A Spiritual Path to Higher Creativity
+2025-07-25 15:21:23,145 - INFO - Inserted product: The Art of War
+2025-07-25 15:21:23,150 - INFO - Inserted product: The Argonauts
+2025-07-25 15:21:23,155 - INFO - Inserted product: The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job
+2025-07-25 15:21:23,160 - INFO - Inserted product: Suddenly in Love (Lake Haven #1)
+2025-07-25 15:21:23,164 - INFO - Inserted product: Something More Than This
+2025-07-25 15:21:23,170 - INFO - Inserted product: Soft Apocalypse
+2025-07-25 15:21:23,176 - INFO - Inserted product: So You've Been Publicly Shamed
+2025-07-25 15:21:23,181 - INFO - Inserted product: Shoe Dog: A Memoir by the Creator of NIKE
+2025-07-25 15:21:23,186 - INFO - Inserted product: Shobu Samurai, Project Aryoku (#3)
+2025-07-25 15:21:23,191 - INFO - Inserted product: Secrets and Lace (Fatal Hearts #1)
+2025-07-25 15:21:23,197 - INFO - Inserted product: Scarlett Epstein Hates It Here
+2025-07-25 15:21:23,203 - INFO - Inserted product: Romero and Juliet: A Tragic Tale of Love and Zombies
+2025-07-25 15:21:23,208 - INFO - Inserted product: Redeeming Love
+2025-07-25 15:21:23,213 - INFO - Inserted product: Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form
+2025-07-25 15:21:23,217 - INFO - Inserted product: Poems That Make Grown Women Cry
+2025-07-25 15:21:23,221 - INFO - Inserted product: Nightingale, Sing
+2025-07-25 15:21:23,226 - INFO - Inserted product: Night Sky with Exit Wounds
+2025-07-25 15:21:23,230 - INFO - Inserted product: Mrs. Houdini
+2025-07-25 15:21:23,235 - INFO - Inserted product: Modern Romance
+2025-07-25 15:21:23,240 - INFO - Inserted product: Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1)
+2025-07-25 15:21:23,245 - INFO - Inserted product: Louisa: The Extraordinary Life of Mrs. Adams
+2025-07-25 15:21:23,250 - INFO - Inserted product: Little Red
+2025-07-25 15:21:23,256 - INFO - Inserted product: Library of Souls (Miss Peregrine’s Peculiar Children #3)
+2025-07-25 15:21:23,262 - INFO - Inserted product: Large Print Heart of the Pride
+2025-07-25 15:21:23,268 - INFO - Inserted product: I Had a Nice Time And Other Lies...: How to find love & sh*t like that
+2025-07-25 15:21:23,273 - INFO - Inserted product: Hollow City (Miss Peregrine’s Peculiar Children #2)
+2025-07-25 15:21:23,279 - INFO - Inserted product: Grumbles
+2025-07-25 15:21:23,284 - INFO - Inserted product: Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond
+2025-07-25 15:21:23,290 - INFO - Inserted product: Frostbite (Vampire Academy #2)
+2025-07-25 15:21:23,295 - INFO - Inserted product: Follow You Home
+2025-07-25 15:21:23,301 - INFO - Inserted product: First Steps for New Christians (Print Edition)
+2025-07-25 15:21:23,307 - INFO - Inserted product: Finders Keepers (Bill Hodges Trilogy #2)
+2025-07-25 15:21:23,312 - INFO - Inserted product: Fables, Vol. 1: Legends in Exile (Fables #1)
+2025-07-25 15:21:23,318 - INFO - Inserted product: Eureka Trivia 6.0
+2025-07-25 15:21:23,322 - INFO - Inserted product: Drive: The Surprising Truth About What Motivates Us
+2025-07-25 15:21:23,328 - INFO - Inserted product: Done Rubbed Out (Reightman & Bailey #1)
+2025-07-25 15:21:23,333 - INFO - Inserted product: Doing It Over (Most Likely To #1)
+2025-07-25 15:21:23,338 - INFO - Inserted product: Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals
+2025-07-25 15:21:23,343 - INFO - Inserted product: Dark Notes
+2025-07-25 15:21:23,348 - INFO - Inserted product: Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+2025-07-25 15:21:23,355 - INFO - Inserted product: Close to You
+2025-07-25 15:21:23,360 - INFO - Inserted product: Chasing Heaven: What Dying Taught Me About Living
+2025-07-25 15:21:23,366 - INFO - Inserted product: Big Magic: Creative Living Beyond Fear
+2025-07-25 15:21:23,372 - INFO - Inserted product: Becoming Wise: An Inquiry into the Mystery and Art of Living
+2025-07-25 15:21:23,377 - INFO - Inserted product: Beauty Restored (Riley Family Legacy Novellas #3)
+2025-07-25 15:21:23,382 - INFO - Inserted product: Batman: The Long Halloween (Batman)
+2025-07-25 15:21:23,387 - INFO - Inserted product: Batman: The Dark Knight Returns (Batman)
+2025-07-25 15:21:23,393 - INFO - Inserted product: Ayumi's Violin
+2025-07-25 15:21:23,399 - INFO - Inserted product: Anonymous
+2025-07-25 15:21:23,405 - INFO - Inserted product: Amy Meets the Saints and Sages
+2025-07-25 15:21:23,411 - INFO - Inserted product: Amid the Chaos
+2025-07-25 15:21:23,417 - INFO - Inserted product: Amatus
+2025-07-25 15:21:23,423 - INFO - Inserted product: Agnostic: A Spirited Manifesto
+2025-07-25 15:21:23,430 - INFO - Inserted product: Zealot: The Life and Times of Jesus of Nazareth
+2025-07-25 15:21:23,436 - INFO - Inserted product: You (You #1)
+2025-07-25 15:21:23,442 - INFO - Inserted product: Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)
+2025-07-25 15:21:23,448 - INFO - Inserted product: Wild Swans
+2025-07-25 15:21:23,453 - INFO - Inserted product: Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond
+2025-07-25 15:21:23,458 - INFO - Inserted product: Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+2025-07-25 15:21:23,463 - INFO - Inserted product: What's It Like in Space?: Stories from Astronauts Who've Been There
+2025-07-25 15:21:23,467 - INFO - Inserted product: We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)
+2025-07-25 15:21:23,472 - INFO - Inserted product: Walt Disney's Alice in Wonderland
+2025-07-25 15:21:23,476 - INFO - Inserted product: V for Vendetta (V for Vendetta Complete)
+2025-07-25 15:21:23,480 - INFO - Inserted product: Until Friday Night (The Field Party #1)
+2025-07-25 15:21:23,485 - INFO - Inserted product: Unbroken: A World War II Story of Survival, Resilience, and Redemption
+2025-07-25 15:21:23,488 - INFO - Inserted product: Twenty Yawns
+2025-07-25 15:21:23,492 - INFO - Inserted product: Through the Woods
+2025-07-25 15:21:23,497 - INFO - Inserted product: This Is Where It Ends
+2025-07-25 15:21:23,501 - INFO - Inserted product: The Year of Magical Thinking
+2025-07-25 15:21:23,506 - INFO - Inserted product: The Wright Brothers
+2025-07-25 15:21:23,511 - INFO - Inserted product: The White Queen (The Cousins' War #1)
+2025-07-25 15:21:23,517 - INFO - Inserted product: The Wedding Pact (The O'Malleys #2)
+2025-07-25 15:21:23,522 - INFO - Inserted product: The Time Keeper
+2025-07-25 15:21:23,529 - INFO - Inserted product: The Testament of Mary
+2025-07-25 15:21:23,535 - INFO - Inserted product: The Star-Touched Queen
+2025-07-25 15:21:23,540 - INFO - Inserted product: The Songs of the Gods
+2025-07-25 15:21:23,546 - INFO - Inserted product: The Song of Achilles
+2025-07-25 15:21:23,552 - INFO - Inserted product: The Rosie Project (Don Tillman #1)
+2025-07-25 15:21:23,557 - INFO - Inserted product: The Power of Habit: Why We Do What We Do in Life and Business
+2025-07-25 15:21:23,563 - INFO - Inserted product: The Marriage of Opposites
+2025-07-25 15:21:23,569 - INFO - Inserted product: The Lucifer Effect: Understanding How Good People Turn Evil
+2025-07-25 15:21:23,574 - INFO - Inserted product: The Long Haul (Diary of a Wimpy Kid #9)
+2025-07-25 15:21:23,580 - INFO - Inserted product: The Loney
+2025-07-25 15:21:23,585 - INFO - Inserted product: The Literature Book (Big Ideas Simply Explained)
+2025-07-25 15:21:23,590 - INFO - Inserted product: The Last Mile (Amos Decker #2)
+2025-07-25 15:21:23,596 - INFO - Inserted product: The Immortal Life of Henrietta Lacks
+2025-07-25 15:21:23,600 - INFO - Inserted product: The Hidden Oracle (The Trials of Apollo #1)
+2025-07-25 15:21:23,604 - INFO - Inserted product: The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth
+2025-07-25 15:21:23,608 - INFO - Inserted product: The Guilty (Will Robie #4)
+2025-07-25 15:21:23,613 - INFO - Inserted product: The First Hostage (J.B. Collins #2)
+2025-07-25 15:21:23,617 - INFO - Inserted product: The Dovekeepers
+2025-07-25 15:21:23,621 - INFO - Inserted product: The Darkest Lie
+2025-07-25 15:21:23,626 - INFO - Inserted product: The Bane Chronicles (The Bane Chronicles #1-11)
+2025-07-25 15:21:23,630 - INFO - Inserted product: The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts
+2025-07-25 15:21:23,638 - INFO - Inserted product: The 14th Colony (Cotton Malone #11)
+2025-07-25 15:21:23,643 - INFO - Inserted product: That Darkness (Gardiner and Renner #1)
+2025-07-25 15:21:23,647 - INFO - Inserted product: Tastes Like Fear (DI Marnie Rome #3)
+2025-07-25 15:21:23,651 - INFO - Inserted product: Take Me with You
+2025-07-25 15:21:23,655 - INFO - Inserted product: Swell: A Year of Waves
+2025-07-25 15:21:23,660 - INFO - Inserted product: Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)
+2025-07-25 15:21:23,665 - INFO - Inserted product: Still Life with Bread Crumbs
+2025-07-25 15:21:23,669 - INFO - Inserted product: Steve Jobs
+2025-07-25 15:21:23,674 - INFO - Inserted product: Sorting the Beef from the Bull: The Science of Food Fraud Forensics
+2025-07-25 15:21:23,678 - INFO - Inserted product: Someone Like You (The Harrisons #2)
+2025-07-25 15:21:23,682 - INFO - Inserted product: So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)
+2025-07-25 15:21:23,687 - INFO - Inserted product: Shtum
+2025-07-25 15:21:23,691 - INFO - Inserted product: See America: A Celebration of Our National Parks & Treasured Sites
+2025-07-25 15:21:23,695 - INFO - Inserted product: salt.
+2025-07-25 15:21:23,699 - INFO - Inserted product: Robin War
+2025-07-25 15:21:23,702 - INFO - Inserted product: Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)
+2025-07-25 15:21:23,706 - INFO - Inserted product: Rain Fish
+2025-07-25 15:21:23,711 - INFO - Inserted product: Quarter Life Poetry: Poems for the Young, Broke and Hangry
+2025-07-25 15:21:23,715 - INFO - Inserted product: Pet Sematary
+2025-07-25 15:21:23,719 - INFO - Inserted product: Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress
+2025-07-25 15:21:23,723 - INFO - Inserted product: Once Was a Time
+2025-07-25 15:21:23,728 - INFO - Inserted product: Old School (Diary of a Wimpy Kid #10)
+2025-07-25 15:21:23,732 - INFO - Inserted product: No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon
+2025-07-25 15:21:23,736 - INFO - Inserted product: Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)
+2025-07-25 15:21:23,741 - INFO - Inserted product: My Name Is Lucy Barton
+2025-07-25 15:21:23,744 - INFO - Inserted product: My Mrs. Brown
+2025-07-25 15:21:23,748 - INFO - Inserted product: My Kind of Crazy
+2025-07-25 15:21:23,753 - INFO - Inserted product: Mr. Mercedes (Bill Hodges Trilogy #1)
+2025-07-25 15:21:23,758 - INFO - Inserted product: More Than Music (Chasing the Dream #1)
+2025-07-25 15:21:23,762 - INFO - Inserted product: Made to Stick: Why Some Ideas Survive and Others Die
+2025-07-25 15:21:23,765 - INFO - Inserted product: Luis Paints the World
+2025-07-25 15:21:23,769 - INFO - Inserted product: Luckiest Girl Alive
+2025-07-25 15:21:23,773 - INFO - Inserted product: Lowriders to the Center of the Earth (Lowriders in Space #2)
+2025-07-25 15:21:23,777 - INFO - Inserted product: Love Is a Mix Tape (Music #1)
+2025-07-25 15:21:23,780 - INFO - Inserted product: Looking for Lovely: Collecting the Moments that Matter
+2025-07-25 15:21:23,784 - INFO - Inserted product: Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments
+2025-07-25 15:21:23,788 - INFO - Inserted product: Let It Out: A Journey Through Journaling
+2025-07-25 15:21:23,791 - INFO - Inserted product: Lady Midnight (The Dark Artifices #1)
+2025-07-25 15:21:23,794 - INFO - Inserted product: It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
+2025-07-25 15:21:23,797 - INFO - Inserted product: Island of Dragons (Unwanteds #7)
+2025-07-25 15:21:23,800 - INFO - Inserted product: I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction
+2025-07-25 15:21:23,804 - INFO - Inserted product: I Am Pilgrim (Pilgrim #1)
+2025-07-25 15:21:23,807 - INFO - Inserted product: Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+2025-07-25 15:21:23,810 - INFO - Inserted product: Hush, Hush (Hush, Hush #1)
+2025-07-25 15:21:23,813 - INFO - Inserted product: Hold Your Breath (Search and Rescue #1)
+2025-07-25 15:21:23,815 - INFO - Inserted product: Hamilton: The Revolution
+2025-07-25 15:21:23,819 - INFO - Inserted product: Greek Mythic History
+2025-07-25 15:21:23,822 - INFO - Inserted product: God: The Most Unpleasant Character in All Fiction
+2025-07-25 15:21:23,825 - INFO - Inserted product: Glory over Everything: Beyond The Kitchen House
+2025-07-25 15:21:23,828 - INFO - Inserted product: Feathers: Displays of Brilliant Plumage
+2025-07-25 15:21:23,831 - INFO - Inserted product: Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years
+2025-07-25 15:21:23,834 - INFO - Inserted product: Every Last Word
+2025-07-25 15:21:23,837 - INFO - Inserted product: Eligible (The Austen Project #4)
+2025-07-25 15:21:23,840 - INFO - Inserted product: El Deafo
+2025-07-25 15:21:23,843 - INFO - Inserted product: Eight Hundred Grapes
+2025-07-25 15:21:23,845 - INFO - Inserted product: Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life
+2025-07-25 15:21:23,848 - INFO - Inserted product: Eat Fat, Get Thin
+2025-07-25 15:21:23,852 - INFO - Inserted product: Don't Get Caught
+2025-07-25 15:21:23,855 - INFO - Inserted product: Doctor Sleep (The Shining #2)
+2025-07-25 15:21:23,859 - INFO - Inserted product: Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)
+2025-07-25 15:21:23,862 - INFO - Inserted product: Dear Mr. Knightley
+2025-07-25 15:21:23,865 - INFO - Inserted product: Daily Fantasy Sports
+2025-07-25 15:21:23,868 - INFO - Inserted product: Crazy Love: Overwhelmed by a Relentless God
+2025-07-25 15:21:23,871 - INFO - Inserted product: Cometh the Hour (The Clifton Chronicles #6)
+2025-07-25 15:21:23,874 - INFO - Inserted product: Code Name Verity (Code Name Verity #1)
+2025-07-25 15:21:23,877 - INFO - Inserted product: Clockwork Angel (The Infernal Devices #1)
+2025-07-25 15:21:23,880 - INFO - Inserted product: City of Glass (The Mortal Instruments #3)
+2025-07-25 15:21:23,883 - INFO - Inserted product: City of Fallen Angels (The Mortal Instruments #4)
+2025-07-25 15:21:23,887 - INFO - Inserted product: City of Bones (The Mortal Instruments #1)
+2025-07-25 15:21:23,890 - INFO - Inserted product: City of Ashes (The Mortal Instruments #2)
+2025-07-25 15:21:23,893 - INFO - Inserted product: Cell
+2025-07-25 15:21:23,896 - INFO - Inserted product: Catching Jordan (Hundred Oaks)
+2025-07-25 15:21:23,899 - INFO - Inserted product: Carry On, Warrior: Thoughts on Life Unarmed
+2025-07-25 15:21:23,902 - INFO - Inserted product: Carrie
+2025-07-25 15:21:23,905 - INFO - Inserted product: Buying In: The Secret Dialogue Between What We Buy and Who We Are
+2025-07-25 15:21:23,909 - INFO - Inserted product: Brain on Fire: My Month of Madness
+2025-07-25 15:21:23,912 - INFO - Inserted product: Batman: Europa
+2025-07-25 15:21:23,915 - INFO - Inserted product: Barefoot Contessa Back to Basics
+2025-07-25 15:21:23,918 - INFO - Inserted product: Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again
+2025-07-25 15:21:23,921 - INFO - Inserted product: Balloon Animals
+2025-07-25 15:21:23,923 - INFO - Inserted product: Art Ops Vol. 1
+2025-07-25 15:21:23,926 - INFO - Inserted product: Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)
+2025-07-25 15:21:23,929 - INFO - Inserted product: Angels Walking (Angels Walking #1)
+2025-07-25 15:21:23,932 - INFO - Inserted product: Angels & Demons (Robert Langdon #1)
+2025-07-25 15:21:23,935 - INFO - Inserted product: All the Light We Cannot See
+2025-07-25 15:21:23,938 - INFO - Inserted product: Adulthood Is a Myth: A "Sarah's Scribbles" Collection
+2025-07-25 15:21:23,942 - INFO - Inserted product: Abstract City
+2025-07-25 15:21:23,946 - INFO - Inserted product: A Time of Torment (Charlie Parker #14)
+2025-07-25 15:21:23,949 - INFO - Inserted product: A Study in Scarlet (Sherlock Holmes #1)
+2025-07-25 15:21:23,953 - INFO - Inserted product: A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer
+2025-07-25 15:21:23,956 - INFO - Inserted product: A People's History of the United States
+2025-07-25 15:21:23,958 - INFO - Inserted product: A Man Called Ove
+2025-07-25 15:21:23,961 - INFO - Inserted product: A Distant Mirror: The Calamitous 14th Century
+2025-07-25 15:21:23,965 - INFO - Inserted product: A Brush of Wings (Angels Walking #3)
+2025-07-25 15:21:23,968 - INFO - Inserted product: 1491: New Revelations of the Americas Before Columbus
+2025-07-25 15:21:23,971 - INFO - Inserted product: The Three Searches, Meaning, and the Story
+2025-07-25 15:21:23,974 - INFO - Inserted product: Searching for Meaning in Gailana
+2025-07-25 15:21:23,979 - INFO - Inserted product: Rook
+2025-07-25 15:21:23,982 - INFO - Inserted product: My Kitchen Year: 136 Recipes That Saved My Life
+2025-07-25 15:21:23,985 - INFO - Inserted product: 13 Hours: The Inside Account of What Really Happened In Benghazi
+2025-07-25 15:21:23,988 - INFO - Inserted product: Will You Won't You Want Me?
+2025-07-25 15:21:23,991 - INFO - Inserted product: Tipping Point for Planet Earth: How Close Are We to the Edge?
+2025-07-25 15:21:23,993 - INFO - Inserted product: The Star-Touched Queen
+2025-07-25 15:21:23,997 - INFO - Inserted product: The Silent Sister (Riley MacPherson #1)
+2025-07-25 15:21:24,000 - INFO - Inserted product: The Midnight Watch: A Novel of the Titanic and the Californian
+2025-07-25 15:21:24,003 - INFO - Inserted product: The Lonely City: Adventures in the Art of Being Alone
+2025-07-25 15:21:24,006 - INFO - Inserted product: The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore
+2025-07-25 15:21:24,009 - INFO - Inserted product: The Golden Condom: And Other Essays on Love Lost and Found
+2025-07-25 15:21:24,012 - INFO - Inserted product: The Epidemic (The Program 0.6)
+2025-07-25 15:21:24,019 - INFO - Inserted product: The Dinner Party
+2025-07-25 15:21:24,022 - INFO - Inserted product: The Diary of a Young Girl
+2025-07-25 15:21:24,026 - INFO - Inserted product: The Children
+2025-07-25 15:21:24,029 - INFO - Inserted product: Stars Above (The Lunar Chronicles #4.5)
+2025-07-25 15:21:24,032 - INFO - Inserted product: Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas
+2025-07-25 15:21:24,035 - INFO - Inserted product: Raspberry Pi Electronics Projects for the Evil Genius
+2025-07-25 15:21:24,038 - INFO - Inserted product: Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two
+2025-07-25 15:21:24,041 - INFO - Inserted product: Psycho: Sanitarium (Psycho #1.5)
+2025-07-25 15:21:24,045 - INFO - Inserted product: Poisonous (Max Revere Novels #3)
+2025-07-25 15:21:24,048 - INFO - Inserted product: One with You (Crossfire #5)
+2025-07-25 15:21:24,051 - INFO - Inserted product: No Love Allowed (Dodge Cove #1)
+2025-07-25 15:21:24,053 - INFO - Inserted product: Murder at the 42nd Street Library (Raymond Ambler #1)
+2025-07-25 15:21:24,056 - INFO - Inserted product: Most Wanted
+2025-07-25 15:21:24,059 - INFO - Inserted product: Love, Lies and Spies
+2025-07-25 15:21:24,062 - INFO - Inserted product: How to Speak Golf: An Illustrated Guide to Links Lingo
+2025-07-25 15:21:24,065 - INFO - Inserted product: Hide Away (Eve Duncan #20)
+2025-07-25 15:21:24,070 - INFO - Inserted product: Furiously Happy: A Funny Book About Horrible Things
+2025-07-25 15:21:24,074 - INFO - Inserted product: Everyday Italian: 125 Simple and Delicious Recipes
+2025-07-25 15:21:24,077 - INFO - Inserted product: Equal Is Unfair: America's Misguided Fight Against Income Inequality
+2025-07-25 15:21:24,080 - INFO - Inserted product: Eleanor & Park
+2025-07-25 15:21:24,083 - INFO - Inserted product: Dirty (Dive Bar #1)
+2025-07-25 15:21:24,086 - INFO - Inserted product: Can You Keep a Secret? (Fear Street Relaunch #4)
+2025-07-25 15:21:24,089 - INFO - Inserted product: Boar Island (Anna Pigeon #19)
+2025-07-25 15:21:24,092 - INFO - Inserted product: A Paris Apartment
+2025-07-25 15:21:24,095 - INFO - Inserted product: A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More
+2025-07-25 15:21:24,099 - INFO - Inserted product: Troublemaker: Surviving Hollywood and Scientology
+2025-07-25 15:21:24,102 - INFO - Inserted product: The Widow
+2025-07-25 15:21:24,106 - INFO - Inserted product: The Sleep Revolution: Transforming Your Life, One Night at a Time
+2025-07-25 15:21:24,108 - INFO - Inserted product: The Improbability of Love
+2025-07-25 15:21:24,111 - INFO - Inserted product: The Art of Startup Fundraising
+2025-07-25 15:21:24,115 - INFO - Inserted product: Take Me Home Tonight (Rock Star Romance #3)
+2025-07-25 15:21:24,119 - INFO - Inserted product: Sleeping Giants (Themis Files #1)
+2025-07-25 15:21:24,122 - INFO - Inserted product: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+2025-07-25 15:21:24,125 - INFO - Inserted product: Playing with Fire
+2025-07-25 15:21:24,128 - INFO - Inserted product: Off the Hook (Fishing for Trouble #1)
+2025-07-25 15:21:24,131 - INFO - Inserted product: Mothering Sunday
+2025-07-25 15:21:24,134 - INFO - Inserted product: Mother, Can You Not?
+2025-07-25 15:21:24,137 - INFO - Inserted product: M Train
+2025-07-25 15:21:24,140 - INFO - Inserted product: Lilac Girls
+2025-07-25 15:21:24,143 - INFO - Inserted product: Lies and Other Acts of Love
+2025-07-25 15:21:24,146 - INFO - Inserted product: Lab Girl
+2025-07-25 15:21:24,149 - INFO - Inserted product: Keep Me Posted
+2025-07-25 15:21:24,152 - INFO - Inserted product: It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle
+2025-07-25 15:21:24,155 - INFO - Inserted product: Grey (Fifty Shades #4)
+2025-07-25 15:21:24,158 - INFO - Inserted product: Exit, Pursued by a Bear
+2025-07-25 15:21:24,161 - INFO - Inserted product: Daredevils
+2025-07-25 15:21:24,164 - INFO - Inserted product: Cravings: Recipes for What You Want to Eat
+2025-07-25 15:21:24,167 - INFO - Inserted product: Born for This: How to Find the Work You Were Meant to Do
+2025-07-25 15:21:24,170 - INFO - Inserted product: Arena
+2025-07-25 15:21:24,173 - INFO - Inserted product: Adultery
+2025-07-25 15:21:24,176 - INFO - Inserted product: A Mother's Reckoning: Living in the Aftermath of Tragedy
+2025-07-25 15:21:24,179 - INFO - Inserted product: A Gentleman's Position (Society of Gentlemen #3)
+2025-07-25 15:21:24,182 - INFO - Inserted product: 11/22/63
+2025-07-25 15:21:24,185 - INFO - Inserted product: 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works
+2025-07-25 15:21:24,188 - INFO - Inserted product: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+2025-07-25 15:21:24,191 - INFO - Inserted product: Without Shame
+2025-07-25 15:21:24,194 - INFO - Inserted product: Watchmen
+2025-07-25 15:21:24,197 - INFO - Inserted product: Unlimited Intuition Now
+2025-07-25 15:21:24,200 - INFO - Inserted product: Underlying Notes
+2025-07-25 15:21:24,203 - INFO - Inserted product: The Shack
+2025-07-25 15:21:24,206 - INFO - Inserted product: The New Brand You: Your New Image Makes the Sale for You
+2025-07-25 15:21:24,209 - INFO - Inserted product: The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York
+2025-07-25 15:21:24,212 - INFO - Inserted product: The Flowers Lied
+2025-07-25 15:21:24,215 - INFO - Inserted product: The Fabric of the Cosmos: Space, Time, and the Texture of Reality
+2025-07-25 15:21:24,217 - INFO - Inserted product: The Book of Mormon
+2025-07-25 15:21:24,221 - INFO - Inserted product: The Art and Science of Low Carbohydrate Living
+2025-07-25 15:21:24,225 - INFO - Inserted product: The Alien Club
+2025-07-25 15:21:24,228 - INFO - Inserted product: Suzie Snowflake: One beautiful flake (a self-esteem story)
+2025-07-25 15:21:24,231 - INFO - Inserted product: Nap-a-Roo
+2025-07-25 15:21:24,234 - INFO - Inserted product: NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond
+2025-07-25 15:21:24,238 - INFO - Inserted product: Modern Day Fables
+2025-07-25 15:21:24,240 - INFO - Inserted product: If I Gave You God's Phone Number....: Searching for Spirituality in America
+2025-07-25 15:21:24,243 - INFO - Inserted product: Fruits Basket, Vol. 9 (Fruits Basket #9)
+2025-07-25 15:21:24,245 - INFO - Inserted product: Dress Your Family in Corduroy and Denim
+2025-07-25 15:21:24,250 - INFO - Inserted product: Don't Forget Steven
+2025-07-25 15:21:24,254 - INFO - Inserted product: Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster
+2025-07-25 15:21:24,259 - INFO - Inserted product: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
+2025-07-25 15:21:24,263 - INFO - Inserted product: A Shard of Ice (The Black Symphony Saga #1)
+2025-07-25 15:21:24,268 - INFO - Inserted product: A Hero's Curse (The Unseen Chronicles #1)
+2025-07-25 15:21:24,272 - INFO - Inserted product: 23 Degrees South: A Tropical Tale of Changing Whether...
+2025-07-25 15:21:24,277 - INFO - Inserted product: Zero to One: Notes on Startups, or How to Build the Future
+2025-07-25 15:21:24,281 - INFO - Inserted product: Why Not Me?
+2025-07-25 15:21:24,285 - INFO - Inserted product: When Breath Becomes Air
+2025-07-25 15:21:24,290 - INFO - Inserted product: Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+2025-07-25 15:21:24,294 - INFO - Inserted product: The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)
+2025-07-25 15:21:24,298 - INFO - Inserted product: The New Drawing on the Right Side of the Brain
+2025-07-25 15:21:24,303 - INFO - Inserted product: The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer
+2025-07-25 15:21:24,308 - INFO - Inserted product: The Martian (The Martian #1)
+2025-07-25 15:21:24,313 - INFO - Inserted product: The High Mountains of Portugal
+2025-07-25 15:21:24,318 - INFO - Inserted product: The Grownup
+2025-07-25 15:21:24,322 - INFO - Inserted product: The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It
+2025-07-25 15:21:24,326 - INFO - Inserted product: South of Sunshine
+2025-07-25 15:21:24,331 - INFO - Inserted product: Smarter Faster Better: The Secrets of Being Productive in Life and Business
+2025-07-25 15:21:24,336 - INFO - Inserted product: Silence in the Dark (Logan Point #4)
+2025-07-25 15:21:24,340 - INFO - Inserted product: Shadows of the Past (Logan Point #1)
+2025-07-25 15:21:24,345 - INFO - Inserted product: Roller Girl
+2025-07-25 15:21:24,350 - INFO - Inserted product: Rising Strong
+2025-07-25 15:21:24,354 - INFO - Inserted product: Proofs of God: Classical Arguments from Tertullian to Barth
+2025-07-25 15:21:24,419 - INFO - Inserted product: Please Kill Me: The Uncensored Oral History of Punk
+2025-07-25 15:21:24,423 - INFO - Inserted product: Out of Print: City Lights Spotlight No. 14
+2025-07-25 15:21:24,427 - INFO - Inserted product: My Life Next Door (My Life Next Door )
+2025-07-25 15:21:24,432 - INFO - Inserted product: Miller's Valley
+2025-07-25 15:21:24,436 - INFO - Inserted product: Man's Search for Meaning
+2025-07-25 15:21:24,440 - INFO - Inserted product: Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations
+2025-07-25 15:21:24,444 - INFO - Inserted product: Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want
+2025-07-25 15:21:24,448 - INFO - Inserted product: Les Fleurs du Mal
+2025-07-25 15:21:24,452 - INFO - Inserted product: Left Behind (Left Behind #1)
+2025-07-25 15:21:24,457 - INFO - Inserted product: Kill 'Em and Leave: Searching for James Brown and the American Soul
+2025-07-25 15:21:24,461 - INFO - Inserted product: Kierkegaard: A Christian Missionary to Christians
+2025-07-25 15:21:24,465 - INFO - Inserted product: John Vassos: Industrial Design for Modern Life
+2025-07-25 15:21:24,469 - INFO - Inserted product: I'll Give You the Sun
+2025-07-25 15:21:24,475 - INFO - Inserted product: I Will Find You
+2025-07-25 15:21:24,479 - INFO - Inserted product: Hystopia: A Novel
+2025-07-25 15:21:24,484 - INFO - Inserted product: Howl and Other Poems
+2025-07-25 15:21:24,489 - INFO - Inserted product: History of Beauty
+2025-07-25 15:21:24,493 - INFO - Inserted product: Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back
+2025-07-25 15:21:24,498 - INFO - Inserted product: Future Shock (Future Shock #1)
+2025-07-25 15:21:24,503 - INFO - Inserted product: Ender's Game (The Ender Quintet #1)
+2025-07-25 15:21:24,509 - INFO - Inserted product: Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World
+2025-07-25 15:21:24,515 - INFO - Inserted product: Death by Leisure: A Cautionary Tale
+2025-07-25 15:21:24,519 - INFO - Inserted product: Brilliant Beacons: A History of the American Lighthouse
+2025-07-25 15:21:24,525 - INFO - Inserted product: Brazen: The Courage to Find the You That's Been Hiding
+2025-07-25 15:21:24,529 - INFO - Inserted product: Between the World and Me
+2025-07-25 15:21:24,533 - INFO - Inserted product: Being Mortal: Medicine and What Matters in the End
+2025-07-25 15:21:24,539 - INFO - Inserted product: A Murder Over a Girl: Justice, Gender, Junior High
+2025-07-25 15:21:24,543 - INFO - Inserted product: 32 Yolks
+2025-07-25 15:21:24,548 - INFO - Inserted product: "Most Blessed of the Patriarchs": Thomas Jefferson and the Empire of the Imagination
+2025-07-25 15:21:24,552 - INFO - Inserted product: You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life
+2025-07-25 15:21:24,557 - INFO - Inserted product: Wildlife of New York: A Five-Borough Coloring Book
+2025-07-25 15:21:24,562 - INFO - Inserted product: What Happened on Beale Street (Secrets of the South Mysteries #2)
+2025-07-25 15:21:24,566 - INFO - Inserted product: Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain
+2025-07-25 15:21:24,571 - INFO - Inserted product: Under the Tuscan Sun
+2025-07-25 15:21:24,575 - INFO - Inserted product: Toddlers Are A**holes: It's Not Your Fault
+2025-07-25 15:21:24,580 - INFO - Inserted product: The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible
+2025-07-25 15:21:24,584 - INFO - Inserted product: The Whale
+2025-07-25 15:21:24,590 - INFO - Inserted product: The Story of Art
+2025-07-25 15:21:24,595 - INFO - Inserted product: The Origin of Species
+2025-07-25 15:21:24,599 - INFO - Inserted product: The Great Gatsby
+2025-07-25 15:21:24,605 - INFO - Inserted product: The Good Girl
+2025-07-25 15:21:24,610 - INFO - Inserted product: The Glass Castle
+2025-07-25 15:21:24,615 - INFO - Inserted product: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+2025-07-25 15:21:24,621 - INFO - Inserted product: The Drowning Girls
+2025-07-25 15:21:24,626 - INFO - Inserted product: The Constant Princess (The Tudor Court #1)
+2025-07-25 15:21:24,631 - INFO - Inserted product: The Bourne Identity (Jason Bourne #1)
+2025-07-25 15:21:24,637 - INFO - Inserted product: The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)
+2025-07-25 15:21:24,643 - INFO - Inserted product: The Art Book
+2025-07-25 15:21:24,648 - INFO - Inserted product: The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+2025-07-25 15:21:24,654 - INFO - Inserted product: Team of Rivals: The Political Genius of Abraham Lincoln
+2025-07-25 15:21:24,660 - INFO - Inserted product: Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+2025-07-25 15:21:24,665 - INFO - Inserted product: Sit, Stay, Love
+2025-07-25 15:21:24,670 - INFO - Inserted product: Sister Dear
+2025-07-25 15:21:24,674 - INFO - Inserted product: Shrunken Treasures: Literary Classics, Short, Sweet, and Silly
+2025-07-25 15:21:24,678 - INFO - Inserted product: Rich Dad, Poor Dad
+2025-07-25 15:21:24,683 - INFO - Inserted product: Raymie Nightingale
+2025-07-25 15:21:24,687 - INFO - Inserted product: Playing from the Heart
+2025-07-25 15:21:24,691 - INFO - Inserted product: Nightstruck: A Novel
+2025-07-25 15:21:24,695 - INFO - Inserted product: Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories
+2025-07-25 15:21:24,699 - INFO - Inserted product: Meternity
+2025-07-25 15:21:24,702 - INFO - Inserted product: Memoirs of a Geisha
+2025-07-25 15:21:24,707 - INFO - Inserted product: Like Never Before (Walker Family #2)
+2025-07-25 15:21:24,713 - INFO - Inserted product: Life of Pi
+2025-07-25 15:21:24,719 - INFO - Inserted product: Leave This Song Behind: Teen Poetry at Its Best
+2025-07-25 15:21:24,724 - INFO - Inserted product: King's Folly (The Kinsman Chronicles #1)
+2025-07-25 15:21:24,729 - INFO - Inserted product: John Adams
+2025-07-25 15:21:24,734 - INFO - Inserted product: How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)
+2025-07-25 15:21:24,742 - INFO - Inserted product: How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking
+2025-07-25 15:21:24,747 - INFO - Inserted product: Good in Bed (Cannie Shapiro #1)
+2025-07-25 15:21:24,752 - INFO - Inserted product: Fruits Basket, Vol. 7 (Fruits Basket #7)
+2025-07-25 15:21:24,756 - INFO - Inserted product: For the Love: Fighting for Grace in a World of Impossible Standards
+2025-07-25 15:21:24,762 - INFO - Inserted product: Finding God in the Ruins: How God Redeems Pain
+2025-07-25 15:21:24,768 - INFO - Inserted product: Every Heart a Doorway (Every Heart A Doorway #1)
+2025-07-25 15:21:24,772 - INFO - Inserted product: Delivering the Truth (Quaker Midwife Mystery #1)
+2025-07-25 15:21:24,777 - INFO - Inserted product: Counted With the Stars (Out from Egypt #1)
+2025-07-25 15:21:24,782 - INFO - Inserted product: Chronicles, Vol. 1
+2025-07-25 15:21:24,787 - INFO - Inserted product: Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+2025-07-25 15:21:24,792 - INFO - Inserted product: Benjamin Franklin: An American Life
+2025-07-25 15:21:24,797 - INFO - Inserted product: At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others
+2025-07-25 15:21:24,802 - INFO - Inserted product: A Summer In Europe
+2025-07-25 15:21:24,806 - INFO - Inserted product: A Short History of Nearly Everything
+2025-07-25 15:21:24,811 - INFO - Inserted product: A Gathering of Shadows (Shades of Magic #2)
+2025-07-25 15:21:24,815 - INFO - Inserted product: The Sound Of Love
+2025-07-25 15:21:24,819 - INFO - Inserted product: The Rise and Fall of the Third Reich: A History of Nazi Germany
+2025-07-25 15:21:24,824 - INFO - Inserted product: The Perks of Being a Wallflower
+2025-07-25 15:21:24,828 - INFO - Inserted product: The Mysterious Affair at Styles (Hercule Poirot #1)
+2025-07-25 15:21:24,833 - INFO - Inserted product: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
+2025-07-25 15:21:24,836 - INFO - Inserted product: The Makings of a Fatherless Child
+2025-07-25 15:21:24,840 - INFO - Inserted product: The Joy of Cooking
+2025-07-25 15:21:24,845 - INFO - Inserted product: The Invention of Wings
+2025-07-25 15:21:24,849 - INFO - Inserted product: The Hobbit (Middle-Earth Universe)
+2025-07-25 15:21:24,854 - INFO - Inserted product: The Great Railway Bazaar
+2025-07-25 15:21:24,859 - INFO - Inserted product: The Golden Compass (His Dark Materials #1)
+2025-07-25 15:21:24,863 - INFO - Inserted product: The God Delusion
+2025-07-25 15:21:24,866 - INFO - Inserted product: The Girl You Left Behind (The Girl You Left Behind #1)
+2025-07-25 15:21:24,869 - INFO - Inserted product: The Fellowship of the Ring (The Lord of the Rings #1)
+2025-07-25 15:21:24,873 - INFO - Inserted product: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
+2025-07-25 15:21:24,879 - INFO - Inserted product: The Barefoot Contessa Cookbook
+2025-07-25 15:21:24,897 - INFO - Inserted product: Tell the Wolves I'm Home
+2025-07-25 15:21:24,901 - INFO - Inserted product: Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman
+2025-07-25 15:21:24,906 - INFO - Inserted product: Pride and Prejudice
+2025-07-25 15:21:24,910 - INFO - Inserted product: Musicophilia: Tales of Music and the Brain
+2025-07-25 15:21:24,915 - INFO - Inserted product: Mere Christianity
+2025-07-25 15:21:24,919 - INFO - Inserted product: Me Before You (Me Before You #1)
+2025-07-25 15:21:24,924 - INFO - Inserted product: In the Woods (Dublin Murder Squad #1)
+2025-07-25 15:21:24,928 - INFO - Inserted product: In Cold Blood
+2025-07-25 15:21:24,932 - INFO - Inserted product: How to Stop Worrying and Start Living
+2025-07-25 15:21:24,937 - INFO - Inserted product: Give It Back
+2025-07-25 15:21:24,941 - INFO - Inserted product: Girl, Interrupted
+2025-07-25 15:21:24,949 - INFO - Inserted product: Fun Home: A Family Tragicomic
+2025-07-25 15:21:24,954 - INFO - Inserted product: Fruits Basket, Vol. 6 (Fruits Basket #6)
+2025-07-25 15:21:24,957 - INFO - Inserted product: Deception Point
+2025-07-25 15:21:24,961 - INFO - Inserted product: Death Note, Vol. 6: Give-and-Take (Death Note #6)
+2025-07-25 15:21:24,966 - INFO - Inserted product: Catherine the Great: Portrait of a Woman
+2025-07-25 15:21:24,970 - INFO - Inserted product: Better Homes and Gardens New Cook Book
+2025-07-25 15:21:24,974 - INFO - Inserted product: An Unquiet Mind: A Memoir of Moods and Madness
+2025-07-25 15:21:24,979 - INFO - Inserted product: A Year in Provence (Provence #1)
+2025-07-25 15:21:24,985 - INFO - Inserted product: World Without End (The Pillars of the Earth #2)
+2025-07-25 15:21:24,990 - INFO - Inserted product: Will Grayson, Will Grayson (Will Grayson, Will Grayson)
+2025-07-25 15:21:24,995 - INFO - Inserted product: Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis
+2025-07-25 15:21:25,000 - INFO - Inserted product: Where She Went (If I Stay #2)
+2025-07-25 15:21:25,009 - INFO - Inserted product: What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+2025-07-25 15:21:25,016 - INFO - Inserted product: Two Summers
+2025-07-25 15:21:25,021 - INFO - Inserted product: This Is Your Brain on Music: The Science of a Human Obsession
+2025-07-25 15:21:25,027 - INFO - Inserted product: The Secret Garden
+2025-07-25 15:21:25,033 - INFO - Inserted product: The Raven King (The Raven Cycle #4)
+2025-07-25 15:21:25,038 - INFO - Inserted product: The Raven Boys (The Raven Cycle #1)
+2025-07-25 15:21:25,047 - INFO - Inserted product: The Power Greens Cookbook: 140 Delicious Superfood Recipes
+2025-07-25 15:21:25,052 - INFO - Inserted product: The Metamorphosis
+2025-07-25 15:21:25,057 - INFO - Inserted product: The Mathews Men: Seven Brothers and the War Against Hitler's U-boats
+2025-07-25 15:21:25,064 - INFO - Inserted product: The Little Paris Bookshop
+2025-07-25 15:21:25,069 - INFO - Inserted product: The Hiding Place
+2025-07-25 15:21:25,073 - INFO - Inserted product: The Grand Design
+2025-07-25 15:21:25,077 - INFO - Inserted product: The Firm
+2025-07-25 15:21:25,081 - INFO - Inserted product: The Fault in Our Stars
+2025-07-25 15:21:25,086 - INFO - Inserted product: The False Prince (The Ascendance Trilogy #1)
+2025-07-25 15:21:25,091 - INFO - Inserted product: The Expatriates
+2025-07-25 15:21:25,096 - INFO - Inserted product: The Dream Thieves (The Raven Cycle #2)
+2025-07-25 15:21:25,101 - INFO - Inserted product: The Darkest Corners
+2025-07-25 15:21:25,106 - INFO - Inserted product: The Crossover
+2025-07-25 15:21:25,111 - INFO - Inserted product: The 5th Wave (The 5th Wave #1)
+2025-07-25 15:21:25,115 - INFO - Inserted product: Tell the Wind and Fire
+2025-07-25 15:21:25,119 - INFO - Inserted product: Tell Me Three Things
+2025-07-25 15:21:25,123 - INFO - Inserted product: Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut
+2025-07-25 15:21:25,129 - INFO - Inserted product: Siddhartha
+2025-07-25 15:21:25,134 - INFO - Inserted product: Shiver (The Wolves of Mercy Falls #1)
+2025-07-25 15:21:25,140 - INFO - Inserted product: Remember Me?
+2025-07-25 15:21:25,149 - INFO - Inserted product: Red Dragon (Hannibal Lecter #1)
+2025-07-25 15:21:25,154 - INFO - Inserted product: Peak: Secrets from the New Science of Expertise
+2025-07-25 15:21:25,160 - INFO - Inserted product: My Mother Was Nuts
+2025-07-25 15:21:25,165 - INFO - Inserted product: Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens
+2025-07-25 15:21:25,170 - INFO - Inserted product: Maybe Something Beautiful: How Art Transformed a Neighborhood
+2025-07-25 15:21:25,175 - INFO - Inserted product: Lola and the Boy Next Door (Anna and the French Kiss #2)
+2025-07-25 15:21:25,181 - INFO - Inserted product: Logan Kade (Fallen Crest High #5.5)
+2025-07-25 15:21:25,186 - INFO - Inserted product: Last One Home (New Beginnings #1)
+2025-07-25 15:21:25,190 - INFO - Inserted product: Killing Floor (Jack Reacher #1)
+2025-07-25 15:21:25,194 - INFO - Inserted product: Kill the Boy Band
+2025-07-25 15:21:25,198 - INFO - Inserted product: Isla and the Happily Ever After (Anna and the French Kiss #3)
+2025-07-25 15:21:25,203 - INFO - Inserted product: If I Stay (If I Stay #1)
+2025-07-25 15:21:25,207 - INFO - Inserted product: I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)
+2025-07-25 15:21:25,211 - INFO - Inserted product: Harry Potter and the Deathly Hallows (Harry Potter #7)
+2025-07-25 15:21:25,216 - INFO - Inserted product: Fruits Basket, Vol. 5 (Fruits Basket #5)
+2025-07-25 15:21:25,220 - INFO - Inserted product: Foundation (Foundation (Publication Order) #1)
+2025-07-25 15:21:25,228 - INFO - Inserted product: Fool Me Once
+2025-07-25 15:21:25,231 - INFO - Inserted product: Find Her (Detective D.D. Warren #8)
+2025-07-25 15:21:25,234 - INFO - Inserted product: Evicted: Poverty and Profit in the American City
+2025-07-25 15:21:25,237 - INFO - Inserted product: Drama
+2025-07-25 15:21:25,241 - INFO - Inserted product: Dracula the Un-Dead
+2025-07-25 15:21:25,246 - INFO - Inserted product: Digital Fortress
+2025-07-25 15:21:25,250 - INFO - Inserted product: Death Note, Vol. 5: Whiteout (Death Note #5)
+2025-07-25 15:21:25,253 - INFO - Inserted product: Data, A Love Story: How I Gamed Online Dating to Meet My Match
+2025-07-25 15:21:25,256 - INFO - Inserted product: Critique of Pure Reason
+2025-07-25 15:21:25,260 - INFO - Inserted product: Booked
+2025-07-25 15:21:25,264 - INFO - Inserted product: Blue Lily, Lily Blue (The Raven Cycle #3)
+2025-07-25 15:21:25,269 - INFO - Inserted product: Approval Junkie: Adventures in Caring Too Much
+2025-07-25 15:21:25,273 - INFO - Inserted product: An Abundance of Katherines
+2025-07-25 15:21:25,277 - INFO - Inserted product: America's War for the Greater Middle East: A Military History
+2025-07-25 15:21:25,281 - INFO - Inserted product: Alight (The Generations Trilogy #2)
+2025-07-25 15:21:25,285 - INFO - Inserted product: A Girl's Guide to Moving On (New Beginnings #2)
+2025-07-25 15:21:25,290 - INFO - Inserted product: A Game of Thrones (A Song of Ice and Fire #1)
+2025-07-25 15:21:25,294 - INFO - Inserted product: A Feast for Crows (A Song of Ice and Fire #4)
+2025-07-25 15:21:25,299 - INFO - Inserted product: A Clash of Kings (A Song of Ice and Fire #2)
+2025-07-25 15:21:25,303 - INFO - Inserted product: Vogue Colors A to Z: A Fashion Coloring Book
+2025-07-25 15:21:25,308 - INFO - Inserted product: The Shining (The Shining #1)
+2025-07-25 15:21:25,312 - INFO - Inserted product: The Pilgrim's Progress
+2025-07-25 15:21:25,318 - INFO - Inserted product: The Perfect Play (Play by Play #1)
+2025-07-25 15:21:25,323 - INFO - Inserted product: The Passion of Dolssa
+2025-07-25 15:21:25,328 - INFO - Inserted product: The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe
+2025-07-25 15:21:25,333 - INFO - Inserted product: The Hunger Games (The Hunger Games #1)
+2025-07-25 15:21:25,338 - INFO - Inserted product: The Hound of the Baskervilles (Sherlock Holmes #5)
+2025-07-25 15:21:25,343 - INFO - Inserted product: The Gunning of America: Business and the Making of American Gun Culture
+2025-07-25 15:21:25,348 - INFO - Inserted product: The Geography of Bliss: One Grump's Search for the Happiest Places in the World
+2025-07-25 15:21:25,353 - INFO - Inserted product: The Demonists (Demonist #1)
+2025-07-25 15:21:25,358 - INFO - Inserted product: The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)
+2025-07-25 15:21:25,363 - INFO - Inserted product: The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)
+2025-07-25 15:21:25,367 - INFO - Inserted product: The Beast (Black Dagger Brotherhood #14)
+2025-07-25 15:21:25,371 - INFO - Inserted product: Some Women
+2025-07-25 15:21:25,376 - INFO - Inserted product: Shopaholic Ties the Knot (Shopaholic #3)
+2025-07-25 15:21:25,381 - INFO - Inserted product: Paper and Fire (The Great Library #2)
+2025-07-25 15:21:25,386 - INFO - Inserted product: Outlander (Outlander #1)
+2025-07-25 15:21:25,392 - INFO - Inserted product: Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors
+2025-07-25 15:21:25,397 - INFO - Inserted product: No One Here Gets Out Alive
+2025-07-25 15:21:25,402 - INFO - Inserted product: Night Shift (Night Shift #1-20)
+2025-07-25 15:21:25,407 - INFO - Inserted product: Needful Things
+2025-07-25 15:21:25,412 - INFO - Inserted product: Mockingjay (The Hunger Games #3)
+2025-07-25 15:21:25,418 - INFO - Inserted product: Misery
+2025-07-25 15:21:25,423 - INFO - Inserted product: Little Women (Little Women #1)
+2025-07-25 15:21:25,429 - INFO - Inserted product: It
+2025-07-25 15:21:25,434 - INFO - Inserted product: Harry Potter and the Sorcerer's Stone (Harry Potter #1)
+2025-07-25 15:21:25,439 - INFO - Inserted product: Harry Potter and the Prisoner of Azkaban (Harry Potter #3)
+2025-07-25 15:21:25,445 - INFO - Inserted product: Harry Potter and the Order of the Phoenix (Harry Potter #5)
+2025-07-25 15:21:25,451 - INFO - Inserted product: Harry Potter and the Half-Blood Prince (Harry Potter #6)
+2025-07-25 15:21:25,456 - INFO - Inserted product: Harry Potter and the Chamber of Secrets (Harry Potter #2)
+2025-07-25 15:21:25,460 - INFO - Inserted product: Gone with the Wind
+2025-07-25 15:21:25,465 - INFO - Inserted product: God Is Not Great: How Religion Poisons Everything
+2025-07-25 15:21:25,469 - INFO - Inserted product: Girl With a Pearl Earring
+2025-07-25 15:21:25,474 - INFO - Inserted product: Fruits Basket, Vol. 4 (Fruits Basket #4)
+2025-07-25 15:21:25,478 - INFO - Inserted product: Far From True (Promise Falls Trilogy #2)
+2025-07-25 15:21:25,483 - INFO - Inserted product: Dark Lover (Black Dagger Brotherhood #1)
+2025-07-25 15:21:25,487 - INFO - Inserted product: Confessions of a Shopaholic (Shopaholic #1)
+2025-07-25 15:21:25,491 - INFO - Inserted product: Changing the Game (Play by Play #2)
+2025-07-25 15:21:25,496 - INFO - Inserted product: Candide
+2025-07-25 15:21:25,500 - INFO - Inserted product: Can You Keep a Secret?
+2025-07-25 15:21:25,505 - INFO - Inserted product: Atlas Shrugged
+2025-07-25 15:21:25,509 - INFO - Inserted product: Animal Farm
+2025-07-25 15:21:25,513 - INFO - Inserted product: A Walk to Remember
+2025-07-25 15:21:25,517 - INFO - Inserted product: A New Earth: Awakening to Your Life's Purpose
+2025-07-25 15:21:25,522 - INFO - Inserted product: A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam
+2025-07-25 15:21:25,526 - INFO - Inserted product: 'Salem's Lot
+2025-07-25 15:21:25,531 - INFO - Inserted product: Zero History (Blue Ant #3)
+2025-07-25 15:21:25,536 - INFO - Inserted product: Wuthering Heights
+2025-07-25 15:21:25,540 - INFO - Inserted product: World War Z: An Oral History of the Zombie War
+2025-07-25 15:21:25,544 - INFO - Inserted product: Wild: From Lost to Found on the Pacific Crest Trail
+2025-07-25 15:21:25,548 - INFO - Inserted product: Where'd You Go, Bernadette
+2025-07-25 15:21:25,553 - INFO - Inserted product: When You Are Engulfed in Flames
+2025-07-25 15:21:25,558 - INFO - Inserted product: We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America
+2025-07-25 15:21:25,562 - INFO - Inserted product: We Are All Completely Beside Ourselves
+2025-07-25 15:21:25,567 - INFO - Inserted product: Walk the Edge (Thunder Road #2)
+2025-07-25 15:21:25,571 - INFO - Inserted product: Voyager (Outlander #3)
+2025-07-25 15:21:25,575 - INFO - Inserted product: Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination
+2025-07-25 15:21:25,580 - INFO - Inserted product: Vegan Vegetarian Omnivore: Dinner for Everyone at the Table
+2025-07-25 15:21:25,606 - INFO - Inserted product: Unstuffed: Decluttering Your Home, Mind, and Soul
+2025-07-25 15:21:25,612 - INFO - Inserted product: Under the Banner of Heaven: A Story of Violent Faith
+2025-07-25 15:21:25,616 - INFO - Inserted product: Two Boys Kissing
+2025-07-25 15:21:25,621 - INFO - Inserted product: Twilight (Twilight #1)
+2025-07-25 15:21:25,626 - INFO - Inserted product: Twenties Girl
+2025-07-25 15:21:25,629 - INFO - Inserted product: Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland
+2025-07-25 15:21:25,634 - INFO - Inserted product: Three-Martini Lunch
+2025-07-25 15:21:25,638 - INFO - Inserted product: Thinking, Fast and Slow
+2025-07-25 15:21:25,642 - INFO - Inserted product: The Wild Robot
+2025-07-25 15:21:25,647 - INFO - Inserted product: The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)
+2025-07-25 15:21:25,651 - INFO - Inserted product: The Undomestic Goddess
+2025-07-25 15:21:25,656 - INFO - Inserted product: The Travelers
+2025-07-25 15:21:25,660 - INFO - Inserted product: The Tipping Point: How Little Things Can Make a Big Difference
+2025-07-25 15:21:25,665 - INFO - Inserted product: The Thing About Jellyfish
+2025-07-25 15:21:25,669 - INFO - Inserted product: The Stand
+2025-07-25 15:21:25,673 - INFO - Inserted product: The Smitten Kitchen Cookbook
+2025-07-25 15:21:25,678 - INFO - Inserted product: The Silkworm (Cormoran Strike #2)
+2025-07-25 15:21:25,682 - INFO - Inserted product: The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)
+2025-07-25 15:21:25,686 - INFO - Inserted product: The Rose & the Dagger (The Wrath and the Dawn #2)
+2025-07-25 15:21:25,690 - INFO - Inserted product: The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)
+2025-07-25 15:21:25,694 - INFO - Inserted product: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+2025-07-25 15:21:25,697 - INFO - Inserted product: The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)
+2025-07-25 15:21:25,701 - INFO - Inserted product: The Rest Is Noise: Listening to the Twentieth Century
+2025-07-25 15:21:25,706 - INFO - Inserted product: The Red Tent
+2025-07-25 15:21:25,710 - INFO - Inserted product: The Purpose Driven Life: What on Earth Am I Here for?
+2025-07-25 15:21:25,714 - INFO - Inserted product: The Purest Hook (Second Circle Tattoos #3)
+2025-07-25 15:21:25,718 - INFO - Inserted product: The Picture of Dorian Gray
+2025-07-25 15:21:25,723 - INFO - Inserted product: The Paris Wife
+2025-07-25 15:21:25,726 - INFO - Inserted product: The Obsession
+2025-07-25 15:21:25,730 - INFO - Inserted product: The Nightingale
+2025-07-25 15:21:25,735 - INFO - Inserted product: The New Guy (and Other Senior Year Distractions)
+2025-07-25 15:21:25,739 - INFO - Inserted product: The Nanny Diaries (Nanny #1)
+2025-07-25 15:21:25,743 - INFO - Inserted product: The Name of God is Mercy
+2025-07-25 15:21:25,748 - INFO - Inserted product: The Maze Runner (The Maze Runner #1)
+2025-07-25 15:21:25,751 - INFO - Inserted product: The Lover's Dictionary
+2025-07-25 15:21:25,755 - INFO - Inserted product: The Lonely Ones
+2025-07-25 15:21:25,759 - INFO - Inserted product: The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+2025-07-25 15:21:25,764 - INFO - Inserted product: The Last Painting of Sara de Vos
+2025-07-25 15:21:25,769 - INFO - Inserted product: The Land of 10,000 Madonnas
+2025-07-25 15:21:25,772 - INFO - Inserted product: The Infinities
+2025-07-25 15:21:25,776 - INFO - Inserted product: The Husband's Secret
+2025-07-25 15:21:25,780 - INFO - Inserted product: The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)
+2025-07-25 15:21:25,785 - INFO - Inserted product: The Guns of August
+2025-07-25 15:21:25,789 - INFO - Inserted product: The Guernsey Literary and Potato Peel Pie Society
+2025-07-25 15:21:25,793 - INFO - Inserted product: The Goldfinch
+2025-07-25 15:21:25,797 - INFO - Inserted product: The Giver (The Giver Quartet #1)
+2025-07-25 15:21:25,803 - INFO - Inserted product: The Girl with All the Gifts
+2025-07-25 15:21:25,807 - INFO - Inserted product: The Girl Who Played with Fire (Millennium Trilogy #2)
+2025-07-25 15:21:25,811 - INFO - Inserted product: The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)
+2025-07-25 15:21:25,815 - INFO - Inserted product: The Exiled
+2025-07-25 15:21:25,820 - INFO - Inserted product: The End of Faith: Religion, Terror, and the Future of Reason
+2025-07-25 15:21:25,824 - INFO - Inserted product: The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
+2025-07-25 15:21:25,828 - INFO - Inserted product: The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements
+2025-07-25 15:21:25,831 - INFO - Inserted product: The Devil Wears Prada (The Devil Wears Prada #1)
+2025-07-25 15:21:25,835 - INFO - Inserted product: The Demon-Haunted World: Science as a Candle in the Dark
+2025-07-25 15:21:25,839 - INFO - Inserted product: The Day the Crayons Came Home (Crayons)
+2025-07-25 15:21:25,842 - INFO - Inserted product: The Da Vinci Code (Robert Langdon #2)
+2025-07-25 15:21:25,846 - INFO - Inserted product: The Cuckoo's Calling (Cormoran Strike #1)
+2025-07-25 15:21:25,850 - INFO - Inserted product: The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])
+2025-07-25 15:21:25,854 - INFO - Inserted product: The Complete Poems
+2025-07-25 15:21:25,858 - INFO - Inserted product: The Catcher in the Rye
+2025-07-25 15:21:25,863 - INFO - Inserted product: The Cat in the Hat (Beginner Books B-1)
+2025-07-25 15:21:25,867 - INFO - Inserted product: The Case for Christ (Cases for Christianity)
+2025-07-25 15:21:25,871 - INFO - Inserted product: The Book Thief
+2025-07-25 15:21:25,875 - INFO - Inserted product: The Book of Basketball: The NBA According to The Sports Guy
+2025-07-25 15:21:25,880 - INFO - Inserted product: The Blind Side: Evolution of a Game
+2025-07-25 15:21:25,884 - INFO - Inserted product: The Autobiography of Malcolm X
+2025-07-25 15:21:25,888 - INFO - Inserted product: The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution
+2025-07-25 15:21:25,892 - INFO - Inserted product: The Art of Fielding
+2025-07-25 15:21:25,896 - INFO - Inserted product: Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character
+2025-07-25 15:21:25,900 - INFO - Inserted product: Stiff: The Curious Lives of Human Cadavers
+2025-07-25 15:21:25,903 - INFO - Inserted product: Spilled Milk: Based on a True Story
+2025-07-25 15:21:25,908 - INFO - Inserted product: Something Borrowed (Darcy & Rachel #1)
+2025-07-25 15:21:25,911 - INFO - Inserted product: Something Blue (Darcy & Rachel #2)
+2025-07-25 15:21:25,916 - INFO - Inserted product: Soldier (Talon #3)
+2025-07-25 15:21:25,920 - INFO - Inserted product: Shopaholic & Baby (Shopaholic #5)
+2025-07-25 15:21:25,925 - INFO - Inserted product: Seven Days in the Art World
+2025-07-25 15:21:25,929 - INFO - Inserted product: Seven Brief Lessons on Physics
+2025-07-25 15:21:25,933 - INFO - Inserted product: Scarlet (The Lunar Chronicles #2)
+2025-07-25 15:21:25,937 - INFO - Inserted product: Sarah's Key
+2025-07-25 15:21:25,941 - INFO - Inserted product: Saga, Volume 3 (Saga (Collected Editions) #3)
+2025-07-25 15:21:25,946 - INFO - Inserted product: Running with Scissors
+2025-07-25 15:21:25,950 - INFO - Inserted product: Rogue Lawyer (Rogue Lawyer #1)
+2025-07-25 15:21:25,955 - INFO - Inserted product: Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars
+2025-07-25 15:21:25,958 - INFO - Inserted product: Rework
+2025-07-25 15:21:25,961 - INFO - Inserted product: Reservations for Two
+2025-07-25 15:21:25,965 - INFO - Inserted product: Red: The True Story of Red Riding Hood
+2025-07-25 15:21:25,970 - INFO - Inserted product: Ready Player One
+2025-07-25 15:21:25,974 - INFO - Inserted product: Quiet: The Power of Introverts in a World That Can't Stop Talking
+2025-07-25 15:21:25,977 - INFO - Inserted product: Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)
+2025-07-25 15:21:25,981 - INFO - Inserted product: Persepolis: The Story of a Childhood (Persepolis #1-2)
+2025-07-25 15:21:25,985 - INFO - Inserted product: Packing for Mars: The Curious Science of Life in the Void
+2025-07-25 15:21:25,989 - INFO - Inserted product: Outliers: The Story of Success
+2025-07-25 15:21:25,992 - INFO - Inserted product: Original Fake
+2025-07-25 15:21:25,996 - INFO - Inserted product: Orange Is the New Black
+2025-07-25 15:21:26,000 - INFO - Inserted product: One for the Money (Stephanie Plum #1)
+2025-07-25 15:21:26,004 - INFO - Inserted product: Notes from a Small Island (Notes From a Small Island #1)
+2025-07-25 15:21:26,008 - INFO - Inserted product: Night (The Night Trilogy #1)
+2025-07-25 15:21:26,013 - INFO - Inserted product: Neither Here nor There: Travels in Europe
+2025-07-25 15:21:26,017 - INFO - Inserted product: Naked
+2025-07-25 15:21:26,022 - INFO - Inserted product: Morning Star (Red Rising #3)
+2025-07-25 15:21:26,025 - INFO - Inserted product: Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing
+2025-07-25 15:21:26,029 - INFO - Inserted product: Midnight Riot (Peter Grant/ Rivers of London - books #1)
+2025-07-25 15:21:26,033 - INFO - Inserted product: Me Talk Pretty One Day
+2025-07-25 15:21:26,038 - INFO - Inserted product: Manuscript Found in Accra
+2025-07-25 15:21:26,042 - INFO - Inserted product: Lust & Wonder
+2025-07-25 15:21:26,046 - INFO - Inserted product: Lila (Gilead #3)
+2025-07-25 15:21:26,050 - INFO - Inserted product: Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)
+2025-07-25 15:21:26,054 - INFO - Inserted product: Life Without a Recipe
+2025-07-25 15:21:26,059 - INFO - Inserted product: Life After Life
+2025-07-25 15:21:26,063 - INFO - Inserted product: Letter to a Christian Nation
+2025-07-25 15:21:26,067 - INFO - Inserted product: Let's Pretend This Never Happened: A Mostly True Memoir
+2025-07-25 15:21:26,071 - INFO - Inserted product: Legend (Legend #1)
+2025-07-25 15:21:26,075 - INFO - Inserted product: Lean In: Women, Work, and the Will to Lead
+2025-07-25 15:21:26,079 - INFO - Inserted product: Lamb: The Gospel According to Biff, Christ's Childhood Pal
+2025-07-25 15:21:26,083 - INFO - Inserted product: Lady Renegades (Rebel Belle #3)
+2025-07-25 15:21:26,088 - INFO - Inserted product: Jurassic Park (Jurassic Park #1)
+2025-07-25 15:21:26,092 - INFO - Inserted product: It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond
+2025-07-25 15:21:26,095 - INFO - Inserted product: Is Everyone Hanging Out Without Me? (And Other Concerns)
+2025-07-25 15:21:26,099 - INFO - Inserted product: Into the Wild
+2025-07-25 15:21:26,103 - INFO - Inserted product: Inferno (Robert Langdon #4)
+2025-07-25 15:21:26,107 - INFO - Inserted product: In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin
+2025-07-25 15:21:26,111 - INFO - Inserted product: If I Run (If I Run #1)
+2025-07-25 15:21:26,116 - INFO - Inserted product: I've Got Your Number
+2025-07-25 15:21:26,120 - INFO - Inserted product: I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban
+2025-07-25 15:21:26,124 - INFO - Inserted product: Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World
+2025-07-25 15:21:26,128 - INFO - Inserted product: House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth
+2025-07-25 15:21:26,133 - INFO - Inserted product: House of Leaves
+2025-07-25 15:21:26,137 - INFO - Inserted product: Horrible Bear!
+2025-07-25 15:21:26,141 - INFO - Inserted product: Holidays on Ice
+2025-07-25 15:21:26,146 - INFO - Inserted product: Heir to the Sky
+2025-07-25 15:21:26,150 - INFO - Inserted product: Green Eggs and Ham (Beginner Books B-16)
+2025-07-25 15:21:26,154 - INFO - Inserted product: Grayson, Vol 3: Nemesis (Grayson #3)
+2025-07-25 15:21:26,157 - INFO - Inserted product: Gratitude
+2025-07-25 15:21:26,162 - INFO - Inserted product: Gone Girl
+2025-07-25 15:21:26,166 - INFO - Inserted product: Golden (Heart of Dread #3)
+2025-07-25 15:21:26,170 - INFO - Inserted product: Girl in the Blue Coat
+2025-07-25 15:21:26,174 - INFO - Inserted product: Fruits Basket, Vol. 3 (Fruits Basket #3)
+2025-07-25 15:21:26,178 - INFO - Inserted product: Friday Night Lights: A Town, a Team, and a Dream
+2025-07-25 15:21:26,182 - INFO - Inserted product: Fire Bound (Sea Haven/Sisters of the Heart #5)
+2025-07-25 15:21:26,186 - INFO - Inserted product: Fifty Shades Freed (Fifty Shades #3)
+2025-07-25 15:21:26,190 - INFO - Inserted product: Fellside
+2025-07-25 15:21:26,194 - INFO - Inserted product: Extreme Prey (Lucas Davenport #26)
+2025-07-25 15:21:26,198 - INFO - Inserted product: Eragon (The Inheritance Cycle #1)
+2025-07-25 15:21:26,202 - INFO - Inserted product: Eclipse (Twilight #3)
+2025-07-25 15:21:26,206 - INFO - Inserted product: Dune (Dune #1)
+2025-07-25 15:21:26,210 - INFO - Inserted product: Dracula
+2025-07-25 15:21:26,214 - INFO - Inserted product: Do Androids Dream of Electric Sheep? (Blade Runner #1)
+2025-07-25 15:21:26,218 - INFO - Inserted product: Disrupted: My Misadventure in the Start-Up Bubble
+2025-07-25 15:21:26,222 - INFO - Inserted product: Dead Wake: The Last Crossing of the Lusitania
+2025-07-25 15:21:26,227 - INFO - Inserted product: David and Goliath: Underdogs, Misfits, and the Art of Battling Giants
+2025-07-25 15:21:26,230 - INFO - Inserted product: Darkfever (Fever #1)
+2025-07-25 15:21:26,234 - INFO - Inserted product: Dark Places
+2025-07-25 15:21:26,239 - INFO - Inserted product: Crazy Rich Asians (Crazy Rich Asians #1)
+2025-07-25 15:21:26,244 - INFO - Inserted product: Counting Thyme
+2025-07-25 15:21:26,249 - INFO - Inserted product: Cosmos
+2025-07-25 15:21:26,254 - INFO - Inserted product: Civilization and Its Discontents
+2025-07-25 15:21:26,259 - INFO - Inserted product: Cinder (The Lunar Chronicles #1)
+2025-07-25 15:21:26,264 - INFO - Inserted product: Catastrophic Happiness: Finding Joy in Childhood's Messy Years
+2025-07-25 15:21:26,269 - INFO - Inserted product: Career of Evil (Cormoran Strike #3)
+2025-07-25 15:21:26,275 - INFO - Inserted product: Breaking Dawn (Twilight #4)
+2025-07-25 15:21:26,279 - INFO - Inserted product: Brave Enough
+2025-07-25 15:21:26,284 - INFO - Inserted product: Boy Meets Boy
+2025-07-25 15:21:26,288 - INFO - Inserted product: Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen
+2025-07-25 15:21:26,294 - INFO - Inserted product: Blink: The Power of Thinking Without Thinking
+2025-07-25 15:21:26,299 - INFO - Inserted product: Black Flags: The Rise of ISIS
+2025-07-25 15:21:26,304 - INFO - Inserted product: Black Butler, Vol. 1 (Black Butler #1)
+2025-07-25 15:21:26,309 - INFO - Inserted product: Big Little Lies
+2025-07-25 15:21:26,313 - INFO - Inserted product: Between Shades of Gray
+2025-07-25 15:21:26,318 - INFO - Inserted product: Best of My Love (Fool's Gold #20)
+2025-07-25 15:21:26,324 - INFO - Inserted product: Beowulf
+2025-07-25 15:21:26,328 - INFO - Inserted product: Beautiful Creatures (Caster Chronicles #1)
+2025-07-25 15:21:26,332 - INFO - Inserted product: Awkward
+2025-07-25 15:21:26,337 - INFO - Inserted product: Ash
+2025-07-25 15:21:26,341 - INFO - Inserted product: Are We There Yet?
+2025-07-25 15:21:26,346 - INFO - Inserted product: Are We Smart Enough to Know How Smart Animals Are?
+2025-07-25 15:21:26,351 - INFO - Inserted product: Annie on My Mind
+2025-07-25 15:21:26,355 - INFO - Inserted product: And Then There Were None
+2025-07-25 15:21:26,359 - INFO - Inserted product: A Walk in the Woods: Rediscovering America on the Appalachian Trail
+2025-07-25 15:21:26,363 - INFO - Inserted product: A Visit from the Goon Squad
+2025-07-25 15:21:26,367 - INFO - Inserted product: A Storm of Swords (A Song of Ice and Fire #3)
+2025-07-25 15:21:26,371 - INFO - Inserted product: A Heartbreaking Work of Staggering Genius
+2025-07-25 15:21:26,376 - INFO - Inserted product: 8 Keys to Mental Health Through Exercise
+2025-07-25 15:21:26,380 - INFO - Inserted product: #GIRLBOSS
+2025-07-25 15:21:26,384 - INFO - Inserted product: The Suffragettes (Little Black Classics, #96)
+2025-07-25 15:21:26,388 - INFO - Inserted product: The Sense of an Ending
+2025-07-25 15:21:26,393 - INFO - Inserted product: The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)
+2025-07-25 15:21:26,396 - INFO - Inserted product: The Course of Love
+2025-07-25 15:21:26,399 - INFO - Inserted product: Sugar Rush (Offensive Line #2)
+2025-07-25 15:21:26,403 - INFO - Inserted product: Saga, Volume 2 (Saga (Collected Editions) #2)
+2025-07-25 15:21:26,406 - INFO - Inserted product: Run, Spot, Run: The Ethics of Keeping Pets
+2025-07-25 15:21:26,411 - INFO - Inserted product: New Moon (Twilight #2)
+2025-07-25 15:21:26,415 - INFO - Inserted product: Life
+2025-07-25 15:21:26,419 - INFO - Inserted product: Kindle Paperwhite User's Guide
+2025-07-25 15:21:26,424 - INFO - Inserted product: H is for Hawk
+2025-07-25 15:21:26,428 - INFO - Inserted product: Girl Online On Tour (Girl Online #2)
+2025-07-25 15:21:26,433 - INFO - Inserted product: Fruits Basket, Vol. 2 (Fruits Basket #2)
+2025-07-25 15:21:26,437 - INFO - Inserted product: Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)
+2025-07-25 15:21:26,441 - INFO - Inserted product: Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)
+2025-07-25 15:21:26,445 - INFO - Inserted product: While You Were Mine
+2025-07-25 15:21:26,450 - INFO - Inserted product: Where Lightning Strikes (Bleeding Stars #3)
+2025-07-25 15:21:26,454 - INFO - Inserted product: When I'm Gone
+2025-07-25 15:21:26,457 - INFO - Inserted product: Ways of Seeing
+2025-07-25 15:21:26,461 - INFO - Inserted product: Vampire Knight, Vol. 1 (Vampire Knight #1)
+2025-07-25 15:21:26,465 - INFO - Inserted product: Vampire Girl (Vampire Girl #1)
+2025-07-25 15:21:26,468 - INFO - Inserted product: Twenty Love Poems and a Song of Despair
+2025-07-25 15:21:26,472 - INFO - Inserted product: Travels with Charley: In Search of America
+2025-07-25 15:21:26,478 - INFO - Inserted product: Three Wishes (River of Time: California #1)
+2025-07-25 15:21:26,481 - INFO - Inserted product: This One Moment (Pushing Limits #1)
+2025-07-25 15:21:26,485 - INFO - Inserted product: The Zombie Room
+2025-07-25 15:21:26,490 - INFO - Inserted product: The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)
+2025-07-25 15:21:26,494 - INFO - Inserted product: The Tumor
+2025-07-25 15:21:26,498 - INFO - Inserted product: The Story of Hong Gildong
+2025-07-25 15:21:26,502 - INFO - Inserted product: The Silent Wife
+2025-07-25 15:21:26,506 - INFO - Inserted product: The Silent Twin (Detective Jennifer Knight #3)
+2025-07-25 15:21:26,510 - INFO - Inserted product: The Selfish Gene
+2025-07-25 15:21:26,514 - INFO - Inserted product: The Secret Healer
+2025-07-25 15:21:26,518 - INFO - Inserted product: The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)
+2025-07-25 15:21:26,522 - INFO - Inserted product: The Republic
+2025-07-25 15:21:26,526 - INFO - Inserted product: The Odyssey
+2025-07-25 15:21:26,530 - INFO - Inserted product: The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)
+2025-07-25 15:21:26,535 - INFO - Inserted product: The Nicomachean Ethics
+2025-07-25 15:21:26,539 - INFO - Inserted product: The Name of the Wind (The Kingkiller Chronicle #1)
+2025-07-25 15:21:26,543 - INFO - Inserted product: The Mirror & the Maze (The Wrath and the Dawn #1.5)
+2025-07-25 15:21:26,548 - INFO - Inserted product: The Little Prince
+2025-07-25 15:21:26,552 - INFO - Inserted product: The Light of the Fireflies
+2025-07-25 15:21:26,557 - INFO - Inserted product: The Last Girl (The Dominion Trilogy #1)
+2025-07-25 15:21:26,560 - INFO - Inserted product: The Iliad
+2025-07-25 15:21:26,564 - INFO - Inserted product: The Hook Up (Game On #1)
+2025-07-25 15:21:26,568 - INFO - Inserted product: The Haters
+2025-07-25 15:21:26,572 - INFO - Inserted product: The Girl You Lost
+2025-07-25 15:21:26,576 - INFO - Inserted product: The Girl In The Ice (DCI Erika Foster #1)
+2025-07-25 15:21:26,581 - INFO - Inserted product: The End of the Jesus Era (An Investigation #1)
+2025-07-25 15:21:26,585 - INFO - Inserted product: The Edge of Reason (Bridget Jones #2)
+2025-07-25 15:21:26,590 - INFO - Inserted product: The Complete Maus (Maus #1-2)
+2025-07-25 15:21:26,593 - INFO - Inserted product: The Communist Manifesto
+2025-07-25 15:21:26,597 - INFO - Inserted product: The Bhagavad Gita
+2025-07-25 15:21:26,600 - INFO - Inserted product: The Bette Davis Club
+2025-07-25 15:21:26,604 - INFO - Inserted product: The Art of Not Breathing
+2025-07-25 15:21:26,608 - INFO - Inserted product: Taking Shots (Assassins #1)
+2025-07-25 15:21:26,612 - INFO - Inserted product: Starlark
+2025-07-25 15:21:26,616 - INFO - Inserted product: Skip Beat!, Vol. 01 (Skip Beat! #1)
+2025-07-25 15:21:26,621 - INFO - Inserted product: Sister Sable (The Mad Queen #1)
+2025-07-25 15:21:26,625 - INFO - Inserted product: Shatter Me (Shatter Me #1)
+2025-07-25 15:21:26,629 - INFO - Inserted product: Shameless
+2025-07-25 15:21:26,634 - INFO - Inserted product: Shadow Rites (Jane Yellowrock #10)
+2025-07-25 15:21:26,638 - INFO - Inserted product: Settling the Score (The Summer Games #1)
+2025-07-25 15:21:26,642 - INFO - Inserted product: Sense and Sensibility
+2025-07-25 15:21:26,647 - INFO - Inserted product: Saga, Volume 1 (Saga (Collected Editions) #1)
+2025-07-25 15:21:26,651 - INFO - Inserted product: Rhythm, Chord & Malykhin
+2025-07-25 15:21:26,655 - INFO - Inserted product: Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)
+2025-07-25 15:21:26,659 - INFO - Inserted product: Paradise Lost (Paradise #1)
+2025-07-25 15:21:26,662 - INFO - Inserted product: Paper Girls, Vol. 1 (Paper Girls #1-5)
+2025-07-25 15:21:26,666 - INFO - Inserted product: Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)
+2025-07-25 15:21:26,671 - INFO - Inserted product: Origins (Alphas 0.5)
+2025-07-25 15:21:26,674 - INFO - Inserted product: One Second (Seven #7)
+2025-07-25 15:21:26,678 - INFO - Inserted product: On the Road (Duluoz Legend)
+2025-07-25 15:21:26,683 - INFO - Inserted product: Old Records Never Die: One Man's Quest for His Vinyl and His Past
+2025-07-25 15:21:26,687 - INFO - Inserted product: Off Sides (Off #1)
+2025-07-25 15:21:26,690 - INFO - Inserted product: Of Mice and Men
+2025-07-25 15:21:26,694 - INFO - Inserted product: Myriad (Prentor #1)
+2025-07-25 15:21:26,698 - INFO - Inserted product: My Perfect Mistake (Over the Top #1)
+2025-07-25 15:21:26,701 - INFO - Inserted product: Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)
+2025-07-25 15:21:26,706 - INFO - Inserted product: Meditations
+2025-07-25 15:21:26,710 - INFO - Inserted product: Matilda
+2025-07-25 15:21:26,714 - INFO - Inserted product: Lost Among the Living
+2025-07-25 15:21:26,718 - INFO - Inserted product: Lord of the Flies
+2025-07-25 15:21:26,722 - INFO - Inserted product: Listen to Me (Fusion #1)
+2025-07-25 15:21:26,726 - INFO - Inserted product: Kitchens of the Great Midwest
+2025-07-25 15:21:26,730 - INFO - Inserted product: Jane Eyre
+2025-07-25 15:21:26,734 - INFO - Inserted product: Imperfect Harmony
+2025-07-25 15:21:26,739 - INFO - Inserted product: Icing (Aces Hockey #2)
+2025-07-25 15:21:26,744 - INFO - Inserted product: Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)
+2025-07-25 15:21:26,748 - INFO - Inserted product: Having the Barbarian's Baby (Ice Planet Barbarians #7.5)
+2025-07-25 15:21:26,751 - INFO - Inserted product: Giant Days, Vol. 1 (Giant Days #1-4)
+2025-07-25 15:21:26,755 - INFO - Inserted product: Fruits Basket, Vol. 1 (Fruits Basket #1)
+2025-07-25 15:21:26,759 - INFO - Inserted product: Frankenstein
+2025-07-25 15:21:26,762 - INFO - Inserted product: Forever Rockers (The Rocker #12)
+2025-07-25 15:21:26,767 - INFO - Inserted product: Fighting Fate (Fighting #6)
+2025-07-25 15:21:26,770 - INFO - Inserted product: Emma
+2025-07-25 15:21:26,774 - INFO - Inserted product: Eat, Pray, Love
+2025-07-25 15:21:26,778 - INFO - Inserted product: Deep Under (Walker Security #1)
+2025-07-25 15:21:26,784 - INFO - Inserted product: Choosing Our Religion: The Spiritual Lives of America's Nones
+2025-07-25 15:21:26,788 - INFO - Inserted product: Charlie and the Chocolate Factory (Charlie Bucket #1)
+2025-07-25 15:21:26,793 - INFO - Inserted product: Charity's Cross (Charles Towne Belles #4)
+2025-07-25 15:21:26,797 - INFO - Inserted product: Bright Lines
+2025-07-25 15:21:26,801 - INFO - Inserted product: Bridget Jones's Diary (Bridget Jones #1)
+2025-07-25 15:21:26,805 - INFO - Inserted product: Bounty (Colorado Mountain #7)
+2025-07-25 15:21:26,809 - INFO - Inserted product: Blood Defense (Samantha Brinkman #1)
+2025-07-25 15:21:26,813 - INFO - Inserted product: Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)
+2025-07-25 15:21:26,817 - INFO - Inserted product: Beyond Good and Evil
+2025-07-25 15:21:26,821 - INFO - Inserted product: Alice in Wonderland (Alice's Adventures in Wonderland #1)
+2025-07-25 15:21:26,824 - INFO - Inserted product: Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)
+2025-07-25 15:21:26,828 - INFO - Inserted product: A Spy's Devotion (The Regency Spies of London #1)
+2025-07-25 15:21:26,831 - INFO - Inserted product: 1st to Die (Women's Murder Club #1)
+2025-07-25 15:21:26,834 - INFO - Inserted product: 1,000 Places to See Before You Die
+2025-07-25 15:21:26,834 - INFO - Scraping and storage completed successfully
+2025-07-25 15:21:26,834 - INFO - Database connection closed.
