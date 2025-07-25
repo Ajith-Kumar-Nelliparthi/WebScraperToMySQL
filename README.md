@@ -5,7 +5,7 @@ BookScraper is a Python-based web scraping application that extracts book detail
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
-- [Setup Instructions] (#setup-instructions)
+- [Setup Instructions](#setup-instructions)
     - [Local Setup](#local-setup)
     - [Docker Setup](#docker-setup)
 - [Usage](#usage)
@@ -43,3 +43,50 @@ Optional data analysis and export using pandas.
     ├── README.md               # Project documentation
     └── .gitignore              # Git ignore file
 ```
+## Prerequisites
+- Python: 3.12 or higher
+- MySQL: 8.0 or higher (if not using Docker)
+- Docker: Docker and Docker Compose (for containerized setup)
+- Git: For cloning the repository
+- pip: For installing Python dependencies
+
+## Setup Instructions
+
+### Local Setup
+- #### Clone the Repository:
+    ```bash
+    git clone https://github.com/Ajith-Kumar-Nelliparthi/WebScraperToMySQL.git
+    cd BookScraper
+- #### Set Up a Virtual Environment:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+- #### Install Dependencies:
+    ```bash
+    pip install -r requirements.txt
+
+- #### Configure MySQL:
+- Ensure a MySQL server is running locally or remotely.
+- Create a database:
+    ```sql
+    CREATE DATABASE web_scraper_db;
+- Grant permissions to your MySQL user:
+    ```sql
+    GRANT ALL PRIVILEGES ON web_scraper_db.* TO 'your_username'@'localhost' IDENTIFIED BY 'your_password';
+- ##### Set Up Environment Variables:
+- Create a .env file in the project root:
+    ```sh
+    DB_HOST=localhost
+    DB_USER=your_username
+    DB_PASSWORD=your_password
+    DB_NAME=web_scraper_db
+    TARGET_URL=http://books.toscrape.com
+
+
+
+
+
+
+
+
